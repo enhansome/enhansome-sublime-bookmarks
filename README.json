@@ -1,0 +1,782 @@
+{
+  "items": [
+    {
+      "description": "Alive projects only, with Sublime Text version 3 support.",
+      "items": [],
+      "title": "Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitGutter",
+          "description": "a plugin to see git diff in gutter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-21T17:06:17Z",
+            "owner": "jisaacks",
+            "repo": "GitGutter",
+            "stars": 3881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sidebar Enhancements",
+          "description": "provides enhancements to the operations on Sidebar of Files and Folders.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T20:30:33Z",
+            "owner": "titoBouzout",
+            "repo": "SideBarEnhancements",
+            "stars": 2221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SublimeREPL",
+          "description": "runs an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-24T05:41:06Z",
+            "owner": "wuub",
+            "repo": "SublimeREPL",
+            "stars": 2128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SublimeLinter",
+          "description": "a plugin that provides a framework for linting code. Whatever language you code in, SublimeLinter can help you write cleaner, better, more bug-free code. SublimeLinter has been designed to provide maximum flexibility and usability for users and maximum simplicity for linter authors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-23T10:58:16Z",
+            "owner": "SublimeLinter",
+            "repo": "SublimeLinter",
+            "stars": 2038
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EditorConfig",
+          "description": ".editorconfig support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-22T16:11:20Z",
+            "owner": "sindresorhus",
+            "repo": "editorconfig-sublime",
+            "stars": 1774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Origami",
+          "description": "split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-07T18:40:24Z",
+            "owner": "SublimeText",
+            "repo": "Origami",
+            "stars": 1224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "All Autocomplete",
+          "description": "extends the default autocomplete to find matches in all open files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-19T12:55:21Z",
+            "owner": "alienhard",
+            "repo": "SublimeAllAutocomplete",
+            "stars": 919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trailing Spaces",
+          "description": "highlight trailing spaces and delete them in a flash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-24T20:48:51Z",
+            "owner": "SublimeText",
+            "repo": "TrailingSpaces",
+            "stars": 890
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sublime Alignment",
+          "description": "a simple key-binding for aligning multi-line and multiple selections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-18T21:37:59Z",
+            "owner": "wbond",
+            "repo": "sublime_alignment",
+            "stars": 520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SublimeFileBrowser",
+          "description": "Ditch the sidebar and browse your files in a normal tab with your keyboard, like a pro! Also, Dired lets you modify your directory structure using the powerful text editing feature that ST provides.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-28T15:03:28Z",
+            "owner": "aziz",
+            "repo": "SublimeFileBrowser",
+            "stars": 398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ApplySyntax",
+          "description": "a plugin that allows to detect and apply the syntax of files that might not otherwise be detected properly. For example, files with the .rb extension are usually Ruby files, but when they are found in a Rails project, they could be RSpec spec files, Cucumber step files, Ruby on Rails files (controllers, models, etc), or just plain Ruby files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-12-03T13:52:20Z",
+            "owner": "facelessuser",
+            "repo": "ApplySyntax",
+            "stars": 340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sublime Worksheet",
+          "description": "an inline REPL for JavaScript, PHP, Ruby and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2013-08-23T05:22:41Z",
+            "owner": "jcartledge",
+            "repo": "sublime-worksheet",
+            "stars": 331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PackageResourceViewer",
+          "description": "View and Edit Sublime package resources. Helpful for extensions and themes development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-23T14:28:11Z",
+            "owner": "skuroda",
+            "repo": "PackageResourceViewer",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sync Settings",
+          "description": "The cross-platform solution to keep Sublime Text configuration synchronized",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-12-09T05:18:46Z",
+            "owner": "mfuentesg",
+            "repo": "SyncSettings",
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glue",
+          "description": "a cross-platform, extensible plug-in for Sublime Text 2 and 3 that connects your favorite editor to your shell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-09-29T01:54:52Z",
+            "owner": "chrissimpkins",
+            "repo": "glue",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FindKeyConflicts",
+          "description": "identify conflicting key mappings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-05-17T02:08:36Z",
+            "owner": "skuroda",
+            "repo": "FindKeyConflicts",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "File Navigator",
+          "description": "keyboard-friendly file navigator and manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2013-09-08T17:20:29Z",
+            "owner": "csch0",
+            "repo": "SublimeText-File-Navigator",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StyleToken",
+          "description": "allows to highlight certain pieces of text with different colors (similar to Notepad++ \"Style token\" functionality).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-08-08T08:09:13Z",
+            "owner": "vcharnahrebel",
+            "repo": "style-token",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Synesthesia",
+          "description": "a plugin for highlighting text with pretty colours.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-06-12T02:26:57Z",
+            "owner": "dariusf",
+            "repo": "synesthesia",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "General Purpose"
+    },
+    {
+      "description": "Helpful notes:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sublime Text setup",
+          "description": "used in the Ruby on Rails Tutorial",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-02-27T16:35:17Z",
+            "owner": "mhartl",
+            "repo": "rails_tutorial_sublime_text",
+            "stars": 706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChangeQuotes",
+          "description": "converts single to double or double to single quotes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-13T14:53:03Z",
+            "owner": "colinta",
+            "repo": "SublimeChangeQuotes",
+            "stars": 125
+          }
+        }
+      ],
+      "title": "Ruby Profile"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JsFormat",
+          "description": "a JavaScript formatting plugin. It uses the command-line/python-module JavaScript formatter from http://jsbeautifier.org to format whole js or json files, or the selected portion(s).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-05T07:25:38Z",
+            "owner": "jdavisclark",
+            "repo": "JsFormat",
+            "stars": 1421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TernJS",
+          "description": "a JavaScript type inference engine integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-07T07:05:22Z",
+            "owner": "ternjs",
+            "repo": "tern_for_sublime",
+            "stars": 798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JavaScript Enhancements",
+          "description": "plugin that offers smart javascript autocomplete, real-time errors and, also, a lot of features about creating, developing and managing javascript projects (such as Cordova, Ionic, React, etc.). It uses Flow (javascript static type checker from Facebook) under the hood.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-31T08:53:38Z",
+            "owner": "pichillilorenzo",
+            "repo": "JavaScriptEnhancements",
+            "stars": 640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoffeeScript",
+          "description": "syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-10T10:56:10Z",
+            "owner": "sustained",
+            "repo": "CoffeeScript-Sublime-Plugin",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bump",
+          "description": "plugin to keep package.json dependencies fresh. Shows latest npm/yarn dependency version in the neat tooltip on package hover.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-11-14T11:08:02Z",
+            "owner": "yavorsky",
+            "repo": "Bump",
+            "stars": 76
+          }
+        }
+      ],
+      "title": "JavaScript Profile"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HTMLPrettify",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-12T04:30:20Z",
+            "owner": "victorporof",
+            "repo": "Sublime-HTMLPrettify",
+            "stars": 1953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GutterColor",
+          "description": "displays color sample in the gutter for each line in CSS containing color code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-15T19:41:33Z",
+            "owner": "ggordan",
+            "repo": "GutterColor",
+            "stars": 484
+          }
+        }
+      ],
+      "title": "Client Side Profile"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LaTeXTools",
+          "description": "an open-source plugin that simplifies working with LaTeX files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Workflow Language",
+            "last_commit": "2026-07-30T17:28:40Z",
+            "owner": "SublimeText",
+            "repo": "LaTeXTools",
+            "stars": 2021
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LaTeXing",
+          "description": "an extension for which makes your life easier and more comfortable while creating your documents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-03-19T06:59:18Z",
+            "owner": "LaTeXing",
+            "repo": "LaTeXing",
+            "stars": 82
+          }
+        }
+      ],
+      "title": "LaTeX Profile"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MarkdownEditing",
+          "description": "powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-04T21:33:46Z",
+            "owner": "SublimeText-Markdown",
+            "repo": "MarkdownEditing",
+            "stars": 3315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Markdown Preview",
+          "description": "preview and build your markdown files quickly in your web browser from Sublime Text.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-04-22T01:13:09Z",
+            "owner": "revolunet",
+            "repo": "sublimetext-markdown-preview",
+            "stars": 2291
+          }
+        }
+      ],
+      "title": "Markdown Editing Profile"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DashDoc",
+          "description": "Dash integration for Sublime Text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-11T13:00:55Z",
+            "owner": "farcaller",
+            "repo": "DashDoc",
+            "stars": 1319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HowDoI",
+          "description": "integration for instant coding answers search tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2013-12-30T07:59:31Z",
+            "owner": "azac",
+            "repo": "sublime-howdoi-direct-paste",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GotoDocumentation",
+          "description": "a plugin to jump to documentation for the current word.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-09-04T22:08:34Z",
+            "owner": "kemayo",
+            "repo": "sublime-text-2-goto-documentation",
+            "stars": 129
+          }
+        }
+      ],
+      "title": "Documentation and Help Systems"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Alfred Workflow",
+          "description": "to open files and folders in Sublime Text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "AppleScript",
+            "last_commit": "2016-09-30T16:31:36Z",
+            "owner": "franzheidl",
+            "repo": "alfred-workflows",
+            "stars": 599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiveReload",
+          "description": "a web browser page reloading plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2025-10-23T15:14:58Z",
+            "owner": "alepez",
+            "repo": "LiveReload-sublimetext3",
+            "stars": 144
+          }
+        }
+      ],
+      "title": "Integration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Fun stuff"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Material theme",
+          "description": "This theme brings the Material Design visual language. http://equinsuocha.io/material-theme",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-28T17:00:31Z",
+            "owner": "vira-soft",
+            "repo": "vira-assets",
+            "stars": 11312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ayu",
+          "description": "A simple theme with bright colors and comes in three versions — dark, mirage and light for all day long comfortable work.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-16T09:03:44Z",
+            "owner": "dempfi",
+            "repo": "ayu",
+            "stars": 4416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flatland",
+          "description": "A simple theme and accompanying color scheme for Sublime Text 2 & 3. It is mostly derived from Soda, the right place to start for any custom theme development for Sublime.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vim script",
+            "last_commit": "2019-03-21T16:40:24Z",
+            "owner": "thinkpixellab",
+            "repo": "flatland",
+            "stars": 2655
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Predawn",
+          "description": "Dark interface and syntax theme for Sublime Text and Atom. http://jamiewilson.io/predawn",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-10-30T16:46:05Z",
+            "owner": "jamiewilson",
+            "repo": "predawn",
+            "stars": 1798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cobalt2",
+          "description": "A full featured Sublime Text blue theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-10-28T22:40:19Z",
+            "owner": "wesbos",
+            "repo": "cobalt2",
+            "stars": 1563
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cyanide",
+          "description": "A minimal dark theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-23T16:41:52Z",
+            "owner": "lefoy",
+            "repo": "cyanide-theme",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ciapre",
+          "description": "An easy-on-the-eyes Sublime Text/TextMate color scheme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-08T05:45:10Z",
+            "owner": "vinhnx",
+            "repo": "Ciapre.tmTheme",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Comfort",
+          "description": "A wonderful theme for sublime Text!.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-02-09T13:14:03Z",
+            "owner": "devanshdalal",
+            "repo": "Comfort",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Themes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "http://tmtheme-editor.herokuapp.com",
+          "description": "online editor for format, with large gallery of Sublime Text/Textmate color schemes. GitHib project page: https://github.com/aziz/tmTheme-Editor",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2023-01-21T11:47:40Z",
+            "owner": "aziz",
+            "repo": "tmTheme-Editor",
+            "stars": 1695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Schemr",
+          "description": "allows you to quickly change your color scheme using the command palette and keyboard shortcuts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-15T08:06:14Z",
+            "owner": "benweier",
+            "repo": "Schemr",
+            "stars": 134
+          }
+        }
+      ],
+      "title": "Color Schemes"
+    },
+    {
+      "description": "There is a LOT of unofficial icon alternatives for Sublime Text. Here are a little collection of the most noticeable ones:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "By Tomas Sykora",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2014-04-30T12:33:26Z",
+            "owner": "syky27",
+            "repo": "Sublime-Text-Icon",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "By Daniel Matarazzo",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "By Shi Yan Hui",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Alternative Icons"
+    },
+    {
+      "description": "There are a lot of other bookmarks collections on GitHub. Take a look at metabookmarks list: https://github.com/sindresorhus/awesome",
+      "items": [],
+      "title": "Other Bookmark Lists"
+    },
+    {
+      "description": "Licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:09:36.848Z",
+    "original_repository": "dreikanter/sublime-bookmarks",
+    "original_repository_sha": "9f0ce612c94c427a5ea5c17d1490c546d5623945",
+    "enhanced_repository": "enhansome/enhansome-sublime-bookmarks",
+    "enhanced_repository_description": null,
+    "title": "Awesome Sublime Text Bookmarks with stars"
+  }
+}
