@@ -19,7 +19,7 @@
             "last_commit": "2026-03-21T17:06:17Z",
             "owner": "jisaacks",
             "repo": "GitGutter",
-            "stars": 3881
+            "stars": 3880
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2018-04-22T01:13:09Z",
             "owner": "revolunet",
             "repo": "sublimetext-markdown-preview",
-            "stars": 2291
+            "stars": 2290
           }
         }
       ],
@@ -590,7 +590,7 @@
             "last_commit": "2026-06-28T17:00:31Z",
             "owner": "vira-soft",
             "repo": "vira-assets",
-            "stars": 11312
+            "stars": 11311
           }
         },
         {
@@ -604,7 +604,7 @@
             "last_commit": "2026-01-16T09:03:44Z",
             "owner": "dempfi",
             "repo": "ayu",
-            "stars": 4416
+            "stars": 4415
           }
         },
         {
@@ -618,7 +618,7 @@
             "last_commit": "2019-03-21T16:40:24Z",
             "owner": "thinkpixellab",
             "repo": "flatland",
-            "stars": 2655
+            "stars": 2653
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2018-11-23T16:41:52Z",
             "owner": "lefoy",
             "repo": "cyanide-theme",
-            "stars": 174
+            "stars": 172
           }
         },
         {
@@ -772,7 +772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:09:36.848Z",
+    "last_updated": "2026-08-13T11:21:45.486Z",
     "original_repository": "dreikanter/sublime-bookmarks",
     "original_repository_sha": "9f0ce612c94c427a5ea5c17d1490c546d5623945",
     "enhanced_repository": "enhansome/enhansome-sublime-bookmarks",
