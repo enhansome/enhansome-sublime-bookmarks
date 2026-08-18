@@ -61,7 +61,7 @@
             "last_commit": "2026-01-23T10:58:16Z",
             "owner": "SublimeLinter",
             "repo": "SublimeLinter",
-            "stars": 2038
+            "stars": 2039
           }
         },
         {
@@ -772,7 +772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:57:04.425Z",
+    "last_updated": "2026-08-18T10:56:21.181Z",
     "original_repository": "dreikanter/sublime-bookmarks",
     "original_repository_sha": "9f0ce612c94c427a5ea5c17d1490c546d5623945",
     "enhanced_repository": "enhansome/enhansome-sublime-bookmarks",
