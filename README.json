@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-17T20:30:33Z",
                 "owner": "titoBouzout",
                 "repo": "SideBarEnhancements",
-                "stars": 2221
+                "stars": 2222
               }
             },
             {
@@ -418,7 +418,7 @@
                 "archived": false,
                 "id": 14823414,
                 "language": "Python",
-                "last_commit": "2026-08-16T15:08:33Z",
+                "last_commit": "2026-08-20T19:03:50Z",
                 "owner": "python-rope",
                 "repo": "rope",
                 "stars": 2233
@@ -805,7 +805,7 @@
                 "last_commit": "2026-06-28T17:00:31Z",
                 "owner": "vira-soft",
                 "repo": "vira-assets",
-                "stars": 11311
+                "stars": 11312
               }
             },
             {
@@ -865,7 +865,7 @@
                 "last_commit": "2019-10-28T22:40:19Z",
                 "owner": "wesbos",
                 "repo": "cobalt2",
-                "stars": 1563
+                "stars": 1562
               }
             },
             {
@@ -1012,7 +1012,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T10:57:29.478Z",
+    "last_updated": "2026-08-21T10:58:03.089Z",
     "original_repository": "dreikanter/sublime-bookmarks",
     "original_repository_id": 21825936,
     "original_repository_sha": "9f0ce612c94c427a5ea5c17d1490c546d5623945",
