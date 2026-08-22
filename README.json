@@ -17,7 +17,7 @@
                 "last_commit": "2026-03-21T17:06:17Z",
                 "owner": "jisaacks",
                 "repo": "GitGutter",
-                "stars": 3880
+                "stars": 3879
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2021-07-19T12:55:21Z",
                 "owner": "alienhard",
                 "repo": "SublimeAllAutocomplete",
-                "stars": 919
+                "stars": 918
               }
             },
             {
@@ -671,7 +671,7 @@
                 "archived": false,
                 "id": 4361634,
                 "language": "Python",
-                "last_commit": "2026-08-14T16:56:01Z",
+                "last_commit": "2026-08-21T16:00:28Z",
                 "owner": "SublimeText-Markdown",
                 "repo": "MarkdownEditing",
                 "stars": 3319
@@ -805,7 +805,7 @@
                 "last_commit": "2026-06-28T17:00:31Z",
                 "owner": "vira-soft",
                 "repo": "vira-assets",
-                "stars": 11312
+                "stars": 11311
               }
             },
             {
@@ -865,7 +865,7 @@
                 "last_commit": "2019-10-28T22:40:19Z",
                 "owner": "wesbos",
                 "repo": "cobalt2",
-                "stars": 1562
+                "stars": 1561
               }
             },
             {
@@ -1012,7 +1012,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:58:03.089Z",
+    "last_updated": "2026-08-22T10:49:52.718Z",
     "original_repository": "dreikanter/sublime-bookmarks",
     "original_repository_id": 21825936,
     "original_repository_sha": "9f0ce612c94c427a5ea5c17d1490c546d5623945",
