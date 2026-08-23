@@ -674,7 +674,7 @@
                 "last_commit": "2026-08-21T16:00:28Z",
                 "owner": "SublimeText-Markdown",
                 "repo": "MarkdownEditing",
-                "stars": 3319
+                "stars": 3320
               }
             },
             {
@@ -820,7 +820,7 @@
                 "last_commit": "2026-01-16T09:03:44Z",
                 "owner": "dempfi",
                 "repo": "ayu",
-                "stars": 4416
+                "stars": 4415
               }
             },
             {
@@ -865,7 +865,7 @@
                 "last_commit": "2019-10-28T22:40:19Z",
                 "owner": "wesbos",
                 "repo": "cobalt2",
-                "stars": 1561
+                "stars": 1560
               }
             },
             {
@@ -1012,7 +1012,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T10:49:52.718Z",
+    "last_updated": "2026-08-23T10:50:56.447Z",
     "original_repository": "dreikanter/sublime-bookmarks",
     "original_repository_id": 21825936,
     "original_repository_sha": "9f0ce612c94c427a5ea5c17d1490c546d5623945",
