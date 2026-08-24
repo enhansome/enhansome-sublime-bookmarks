@@ -2,7 +2,7 @@
 
 > [Sublime Text](http://www.sublimetext.com/) is a cross-platform text and source code editor, with a Python application programming interface. Its functionality is extendable with plugins. Most of the extending packages have free-software licenses and are community-built and maintained. — [Wikipedia](https://en.wikipedia.org/wiki/Sublime_Text)
 
-This tiny project follows [GitHub community trend](https://github.com/sindresorhus/awesome) ⭐ 499,454 | 🐛 106 | 📅 2026-08-21 to aggregate the most essential bookmarks for specific subject in the form of a handy well-structured collection. Here you will find tutorials and learning materials for Sublime Text, general purpose extensions for coding and text editing, and specialized extensions grouped by usage profiles.
+This tiny project follows [GitHub community trend](https://github.com/sindresorhus/awesome) ⭐ 499,514 | 🐛 106 | 📅 2026-08-21 to aggregate the most essential bookmarks for specific subject in the form of a handy well-structured collection. Here you will find tutorials and learning materials for Sublime Text, general purpose extensions for coding and text editing, and specialized extensions grouped by usage profiles.
 
 This list not supposed to include absolutely all Sublime Text plugins, due we already have [Package Control](https://packagecontrol.io/) for this. It is intended to be a starting point helping to setup working environment, or check out for new extensions to make your existing Sublime setup more awesome. You may find ★ here and there in the list. It stands for Editors' Choice. Sharing and pull requests are very much appreciated!
 
@@ -95,7 +95,7 @@ Plugins:
 
 * [Anaconda](https://github.com/DamnWidget/anaconda) ⭐ 2,240 | 🐛 185 | 🌐 Python | 📅 2022-08-12 — autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker and Vagrant for Sublime Text 3 using Jedi, PyFlakes, pep8, PyLint, pep257 and McCabe that will never freeze your Sublime Text.
 * [Rope](https://github.com/python-rope/rope) ⭐ 2,233 | 🐛 141 | 🌐 Python | 📅 2026-08-20 — a Python refactoring library.
-* [MagicPython](https://github.com/MagicStack/MagicPython) ⭐ 1,443 | 🐛 70 | 🌐 JavaScript | 📅 2024-02-21 — Syntax highlighter for cutting edge Python for Sublime Text and Atom.
+* [MagicPython](https://github.com/MagicStack/MagicPython) ⭐ 1,442 | 🐛 70 | 🌐 JavaScript | 📅 2024-02-21 — Syntax highlighter for cutting edge Python for Sublime Text and Atom.
 * [SublimeJEDI](https://github.com/srusskih/SublimeJEDI) ⭐ 928 | 🐛 35 | 🌐 Python | 📅 2022-08-30 — Python autocompletion.
 * [Djaneiro](https://github.com/squ1b3r/Djaneiro) ⭐ 853 | 🐛 10 | 🌐 Python | 📅 2024-12-31 — Django support.
 * [SublimePythonTidy](https://github.com/witsch/SublimePythonTidy) ⭐ 41 | 🐛 7 | 🌐 Python | 📅 2013-03-12 — [PythonTidy](https://pypi.python.org/pypi/PythonTidy/) integration.
@@ -206,7 +206,7 @@ See also:
 
 ## Other Bookmark Lists
 
-There are a lot of other bookmarks collections on GitHub. Take a look at metabookmarks list: <https://github.com/sindresorhus/awesome> ⭐ 499,454 | 🐛 106 | 📅 2026-08-21
+There are a lot of other bookmarks collections on GitHub. Take a look at metabookmarks list: <https://github.com/sindresorhus/awesome> ⭐ 499,514 | 🐛 106 | 📅 2026-08-21
 
 ## License
 

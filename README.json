@@ -436,7 +436,7 @@
                 "last_commit": "2024-02-21T21:52:42Z",
                 "owner": "MagicStack",
                 "repo": "MagicPython",
-                "stars": 1443
+                "stars": 1442
               }
             },
             {
@@ -912,6 +912,21 @@
                 "repo": "Comfort",
                 "stars": 2
               }
+            },
+            {
+              "node_type": "item",
+              "title": "Sublime Theme Switcher",
+              "description": "Painless theme selection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55328616,
+                "language": "Python",
+                "last_commit": "2019-01-11T13:22:18Z",
+                "owner": "chmln",
+                "repo": "sublime-text-theme-switcher-menu",
+                "stars": 16
+              }
             }
           ],
           "description": "Related extensions:",
@@ -1006,13 +1021,35 @@
           "description": "There is a LOT of unofficial icon alternatives for Sublime Text. Here are a little collection of the most noticeable ones:",
           "node_type": "group",
           "title": "Alternative Icons"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Adobe Source Code Pro",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5362524,
+                "language": "CSS",
+                "last_commit": "2025-10-28T23:34:52Z",
+                "owner": "adobe-fonts",
+                "repo": "source-code-pro",
+                "stars": 20436
+              }
+            }
+          ],
+          "description": "See also:",
+          "node_type": "group",
+          "title": "Monospace Fonts"
         }
       ],
       "title": "Fun stuff"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:02:25.594Z",
+    "last_updated": "2026-08-24T14:13:09.965Z",
     "original_repository": "dreikanter/sublime-bookmarks",
     "original_repository_id": 21825936,
     "original_repository_sha": "9f0ce612c94c427a5ea5c17d1490c546d5623945",
