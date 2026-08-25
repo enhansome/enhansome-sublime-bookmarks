@@ -937,7 +937,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "http://tmtheme-editor.herokuapp.com",
+              "title": "aziz/tmTheme-Editor",
               "description": "online editor for format, with large gallery of Sublime Text/Textmate color schemes. GitHib project page: https://github.com/aziz/tmTheme-Editor",
               "children": [],
               "repo_info": {
@@ -1049,7 +1049,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:13:09.965Z",
+    "last_updated": "2026-08-25T06:08:36.906Z",
     "original_repository": "dreikanter/sublime-bookmarks",
     "original_repository_id": 21825936,
     "original_repository_sha": "9f0ce612c94c427a5ea5c17d1490c546d5623945",
