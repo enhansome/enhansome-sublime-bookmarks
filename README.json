@@ -418,10 +418,10 @@
                 "archived": false,
                 "id": 14823414,
                 "language": "Python",
-                "last_commit": "2026-08-20T19:03:50Z",
+                "last_commit": "2026-08-25T17:40:46Z",
                 "owner": "python-rope",
                 "repo": "rope",
-                "stars": 2233
+                "stars": 2234
               }
             },
             {
@@ -436,7 +436,7 @@
                 "last_commit": "2024-02-21T21:52:42Z",
                 "owner": "MagicStack",
                 "repo": "MagicPython",
-                "stars": 1442
+                "stars": 1443
               }
             },
             {
@@ -977,7 +977,7 @@
                 "last_commit": "2023-10-12T02:42:54Z",
                 "owner": "chriskempson",
                 "repo": "base16",
-                "stars": 959
+                "stars": 960
               }
             },
             {
@@ -1036,7 +1036,7 @@
                 "last_commit": "2025-10-28T23:34:52Z",
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20436
+                "stars": 20437
               }
             }
           ],
@@ -1049,7 +1049,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:59:58.665Z",
+    "last_updated": "2026-08-26T11:01:48.453Z",
     "original_repository": "dreikanter/sublime-bookmarks",
     "original_repository_id": 21825936,
     "original_repository_sha": "9f0ce612c94c427a5ea5c17d1490c546d5623945",
