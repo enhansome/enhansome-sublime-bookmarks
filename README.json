@@ -406,7 +406,7 @@
                 "last_commit": "2022-08-12T18:54:06Z",
                 "owner": "DamnWidget",
                 "repo": "anaconda",
-                "stars": 2240
+                "stars": 2241
               }
             },
             {
@@ -674,7 +674,7 @@
                 "last_commit": "2026-08-21T16:00:28Z",
                 "owner": "SublimeText-Markdown",
                 "repo": "MarkdownEditing",
-                "stars": 3321
+                "stars": 3322
               }
             },
             {
@@ -805,7 +805,7 @@
                 "last_commit": "2026-06-28T17:00:31Z",
                 "owner": "vira-soft",
                 "repo": "vira-assets",
-                "stars": 11311
+                "stars": 11312
               }
             },
             {
@@ -865,7 +865,7 @@
                 "last_commit": "2019-10-28T22:40:19Z",
                 "owner": "wesbos",
                 "repo": "cobalt2",
-                "stars": 1560
+                "stars": 1559
               }
             },
             {
@@ -1049,9 +1049,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:01:48.453Z",
-    "original_repository": "dreikanter/sublime-bookmarks",
-    "original_repository_id": 21825936,
+    "last_updated": "2026-08-27T12:03:54.518Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 21825936,
+      "language": null,
+      "last_commit": "2024-01-15T15:02:30Z",
+      "owner": "dreikanter",
+      "repo": "sublime-bookmarks",
+      "stars": 1074
+    },
     "original_repository_sha": "9f0ce612c94c427a5ea5c17d1490c546d5623945",
     "enhanced_repository": "enhansome/enhansome-sublime-bookmarks",
     "enhanced_repository_description": null,
