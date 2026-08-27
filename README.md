@@ -2,7 +2,7 @@
 
 > [Sublime Text](http://www.sublimetext.com/) is a cross-platform text and source code editor, with a Python application programming interface. Its functionality is extendable with plugins. Most of the extending packages have free-software licenses and are community-built and maintained. — [Wikipedia](https://en.wikipedia.org/wiki/Sublime_Text)
 
-This tiny project follows [GitHub community trend](https://github.com/sindresorhus/awesome) ⭐ 500,367 | 🐛 105 | 📅 2026-08-21 to aggregate the most essential bookmarks for specific subject in the form of a handy well-structured collection. Here you will find tutorials and learning materials for Sublime Text, general purpose extensions for coding and text editing, and specialized extensions grouped by usage profiles.
+This tiny project follows [GitHub community trend](https://github.com/sindresorhus/awesome) ⭐ 500,498 | 🐛 105 | 📅 2026-08-21 to aggregate the most essential bookmarks for specific subject in the form of a handy well-structured collection. Here you will find tutorials and learning materials for Sublime Text, general purpose extensions for coding and text editing, and specialized extensions grouped by usage profiles.
 
 This list not supposed to include absolutely all Sublime Text plugins, due we already have [Package Control](https://packagecontrol.io/) for this. It is intended to be a starting point helping to setup working environment, or check out for new extensions to make your existing Sublime setup more awesome. You may find ★ here and there in the list. It stands for Editors' Choice. Sharing and pull requests are very much appreciated!
 
@@ -123,7 +123,7 @@ Plugins:
 
 ### Markdown Editing Profile
 
-* [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) ⭐ 3,322 | 🐛 46 | 🌐 Python | 📅 2026-08-21 — powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
+* [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) ⭐ 3,323 | 🐛 46 | 🌐 Python | 📅 2026-08-21 — powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
 * [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview) ⚠️ Archived — preview and build your markdown files quickly in your web browser from Sublime Text.
 
 ### Documentation and Help Systems
@@ -147,9 +147,9 @@ Plugins:
 * [Ayu](https://github.com/dempfi/ayu) ⭐ 4,415 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2026-01-16 — A simple theme with bright colors and comes in three versions — dark, mirage and light for all day long comfortable work.
 * [Flatland](https://github.com/thinkpixellab/flatland) ⚠️ Archived — A simple theme and accompanying color scheme for Sublime Text 2 & 3. It is mostly derived from Soda, the right place to start for any custom theme development for Sublime.
 * [Predawn](https://github.com/jamiewilson/predawn) ⭐ 1,798 | 🐛 21 | 🌐 CSS | 📅 2024-10-30 — Dark interface and syntax theme for Sublime Text and Atom. <http://jamiewilson.io/predawn>
-* [Cobalt2](https://github.com/wesbos/cobalt2) ⭐ 1,559 | 🐛 32 | 📅 2019-10-28 — A full featured Sublime Text blue theme.
+* [Cobalt2](https://github.com/wesbos/cobalt2) ⭐ 1,558 | 🐛 32 | 📅 2019-10-28 — A full featured Sublime Text blue theme.
 * [Cyanide](https://github.com/lefoy/cyanide-theme) ⭐ 172 | 🐛 11 | 🌐 JavaScript | 📅 2018-11-23 — A minimal dark theme.
-* [Ciapre](https://github.com/vinhnx/Ciapre.tmTheme/) ⭐ 68 | 🐛 0 | 📅 2025-06-08 - An easy-on-the-eyes Sublime Text/TextMate color scheme.
+* [Ciapre](https://github.com/vinhnx/Ciapre.tmTheme/) ⭐ 67 | 🐛 0 | 📅 2025-06-08 - An easy-on-the-eyes Sublime Text/TextMate color scheme.
 * [Comfort](https://github.com/devanshdalal/Comfort) ⭐ 2 | 🐛 0 | 📅 2016-02-09 — A wonderful theme for sublime Text!.
 * [Soda](http://buymeasoda.github.io/soda-theme/) — Dark and light custom UI themes.
 * [Spacegray](http://kkga.github.io/spacegray/) — A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal. Comes in different flavors with accompanying Base16 color schemes. <http://kkga.github.io/spacegray>
@@ -167,7 +167,7 @@ Related extensions:
 
 Some of the most popular schemes:
 
-* [Base 16](https://github.com/chriskempson/base16) ⭐ 960 | 🐛 1 | 📅 2023-10-12 — carefully chosen syntax highlighting and a default set of sixteen colors.
+* [Base 16](https://github.com/chriskempson/base16) ⭐ 961 | 🐛 1 | 📅 2023-10-12 — carefully chosen syntax highlighting and a default set of sixteen colors.
 * [Dracula](https://github.com/dracula/sublime) ⭐ 102 | 🐛 11 | 📅 2025-06-24 - spooky color scheme, perfect for Halloween.  Also available for terminal and [several other applications](https://draculatheme.com/).
 * [Solarized](http://ethanschoonover.com/solarized) — balanced dark and light themes.
 
@@ -206,7 +206,7 @@ See also:
 
 ## Other Bookmark Lists
 
-There are a lot of other bookmarks collections on GitHub. Take a look at metabookmarks list: <https://github.com/sindresorhus/awesome> ⭐ 500,367 | 🐛 105 | 📅 2026-08-21
+There are a lot of other bookmarks collections on GitHub. Take a look at metabookmarks list: <https://github.com/sindresorhus/awesome> ⭐ 500,498 | 🐛 105 | 📅 2026-08-21
 
 ## License
 
