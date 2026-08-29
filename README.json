@@ -1577,10 +1577,10 @@
                 "language": "CSS",
                 "license": "OFL-1.1",
                 "last_commit": "2025-10-28T23:34:52Z",
-                "open_issues": 86,
+                "open_issues": 87,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20440,
+                "stars": 20439,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:40:01.900Z",
+    "last_updated": "2026-08-29T15:11:10.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
