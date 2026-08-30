@@ -2,7 +2,7 @@
 
 > [Sublime Text](http://www.sublimetext.com/) is a cross-platform text and source code editor, with a Python application programming interface. Its functionality is extendable with plugins. Most of the extending packages have free-software licenses and are community-built and maintained. — [Wikipedia](https://en.wikipedia.org/wiki/Sublime_Text)
 
-This tiny project follows [GitHub community trend](https://github.com/sindresorhus/awesome) ⭐ 501,043 | 🐛 105 | 📅 2026-08-21 to aggregate the most essential bookmarks for specific subject in the form of a handy well-structured collection. Here you will find tutorials and learning materials for Sublime Text, general purpose extensions for coding and text editing, and specialized extensions grouped by usage profiles.
+This tiny project follows [GitHub community trend](https://github.com/sindresorhus/awesome) ⭐ 501,341 | 🐛 105 | 📅 2026-08-21 to aggregate the most essential bookmarks for specific subject in the form of a handy well-structured collection. Here you will find tutorials and learning materials for Sublime Text, general purpose extensions for coding and text editing, and specialized extensions grouped by usage profiles.
 
 This list not supposed to include absolutely all Sublime Text plugins, due we already have [Package Control](https://packagecontrol.io/) for this. It is intended to be a starting point helping to setup working environment, or check out for new extensions to make your existing Sublime setup more awesome. You may find ★ here and there in the list. It stands for Editors' Choice. Sharing and pull requests are very much appreciated!
 
@@ -46,7 +46,7 @@ Alive projects only, with Sublime Text version 3 support.
 ### General Purpose
 
 * [GitGutter](https://github.com/jisaacks/GitGutter) ⭐ 3,879 | 🐛 9 | 🌐 Python | 📅 2026-03-21 — a plugin to see git diff in gutter.
-* [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements) ⭐ 2,222 | 🐛 8 | 🌐 Python | 📅 2026-07-17 — provides enhancements to the operations on Sidebar of Files and Folders.
+* [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements) ⭐ 2,221 | 🐛 8 | 🌐 Python | 📅 2026-07-17 — provides enhancements to the operations on Sidebar of Files and Folders.
 * [SublimeREPL](https://github.com/wuub/SublimeREPL) ⭐ 2,128 | 🐛 268 | 🌐 Python | 📅 2021-05-24 — runs an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself).
 * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3) ⭐ 2,040 | 🐛 19 | 🌐 Python | 📅 2026-01-23 — a plugin that provides a framework for linting code. Whatever language you code in, SublimeLinter can help you write cleaner, better, more bug-free code. SublimeLinter has been designed to provide maximum flexibility and usability for users and maximum simplicity for linter authors.
 * [EditorConfig](https://github.com/sindresorhus/editorconfig-sublime) ⭐ 1,774 | 🐛 8 | 🌐 Python | 📅 2026-03-22 — .editorconfig support.
@@ -105,7 +105,7 @@ Plugins:
 
 * [JsFormat](https://github.com/jdc0589/JsFormat) ⭐ 1,421 | 🐛 11 | 🌐 Python | 📅 2022-04-05 — a JavaScript formatting plugin. It uses the command-line/python-module JavaScript formatter from <http://jsbeautifier.org> to format whole js or json files, or the selected portion(s).
 * [TernJS](https://github.com/ternjs/tern_for_sublime) ⭐ 798 | 🐛 43 | 🌐 Python | 📅 2022-11-07 — a JavaScript type inference engine integration.
-* [JavaScript Enhancements](https://github.com/pichillilorenzo/JavaScriptEnhancements) ⭐ 641 | 🐛 27 | 🌐 Python | 📅 2024-01-31 — plugin that offers smart javascript autocomplete, real-time errors and, also, a lot of features about creating, developing and managing javascript projects (such as Cordova, Ionic, React, etc.). It uses [Flow](https://github.com/facebook/flow) ⭐ 22,280 | 🐛 524 | 🌐 Rust | 📅 2026-08-29 (javascript static type checker from Facebook) under the hood.
+* [JavaScript Enhancements](https://github.com/pichillilorenzo/JavaScriptEnhancements) ⭐ 641 | 🐛 27 | 🌐 Python | 📅 2024-01-31 — plugin that offers smart javascript autocomplete, real-time errors and, also, a lot of features about creating, developing and managing javascript projects (such as Cordova, Ionic, React, etc.). It uses [Flow](https://github.com/facebook/flow) ⭐ 22,281 | 🐛 524 | 🌐 Rust | 📅 2026-08-29 (javascript static type checker from Facebook) under the hood.
 * [CoffeeScript](https://github.com/Xavura/CoffeeScript-Sublime-Plugin) ⭐ 285 | 🐛 30 | 🌐 Python | 📅 2019-08-10 — syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
 * [Bump](https://github.com/yavorsky/Bump) ⭐ 76 | 🐛 5 | 🌐 Python | 📅 2017-11-14 — plugin to keep package.json dependencies fresh. Shows latest npm/yarn dependency version in the neat tooltip on package hover.
 
@@ -123,7 +123,7 @@ Plugins:
 
 ### Markdown Editing Profile
 
-* [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) ⭐ 3,323 | 🐛 46 | 🌐 Python | 📅 2026-08-21 — powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
+* [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) ⭐ 3,323 | 🐛 47 | 🌐 Python | 📅 2026-08-21 — powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
 * [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview) ⚠️ Archived — preview and build your markdown files quickly in your web browser from Sublime Text.
 
 ### Documentation and Help Systems
@@ -185,7 +185,7 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 
 ### Monospace Fonts
 
-* [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro) ⭐ 20,439 | 🐛 87 | 🌐 CSS | 📅 2025-10-28
+* [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro) ⭐ 20,440 | 🐛 87 | 🌐 CSS | 📅 2025-10-28
 * [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
 * [Bitstream Vera Sans Mono](http://www.dafont.com/bitstream-vera-mono.font)
 * [Consolas](http://www.fonts.com/font/microsoft-corporation/consolas) (goes with Microsoft Office)
@@ -206,7 +206,7 @@ See also:
 
 ## Other Bookmark Lists
 
-There are a lot of other bookmarks collections on GitHub. Take a look at metabookmarks list: <https://github.com/sindresorhus/awesome> ⭐ 501,043 | 🐛 105 | 📅 2026-08-21
+There are a lot of other bookmarks collections on GitHub. Take a look at metabookmarks list: <https://github.com/sindresorhus/awesome> ⭐ 501,341 | 🐛 105 | 📅 2026-08-21
 
 ## License
 
@@ -214,4 +214,4 @@ Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-s
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
