@@ -1084,7 +1084,7 @@
                 "open_issues": 5,
                 "owner": "farcaller",
                 "repo": "DashDoc",
-                "stars": 1319,
+                "stars": 1318,
                 "topics": [
                   "dash-docsets",
                   "sublime-text-3",
@@ -1215,7 +1215,7 @@
                 "open_issues": 0,
                 "owner": "vira-soft",
                 "repo": "vira-assets",
-                "stars": 11312,
+                "stars": 11311,
                 "topics": [
                   "epic",
                   "hacktoberfest",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:40:48.536Z",
+    "last_updated": "2026-09-01T15:05:20.267Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
