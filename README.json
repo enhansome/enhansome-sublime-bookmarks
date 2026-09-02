@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "jisaacks",
                 "repo": "GitGutter",
-                "stars": 3879,
+                "stars": 3878,
                 "topics": [
                   "color-scheme",
                   "gitgutter",
@@ -622,10 +622,10 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-08-25T17:40:46Z",
-                "open_issues": 143,
+                "open_issues": 146,
                 "owner": "python-rope",
                 "repo": "rope",
-                "stars": 2234,
+                "stars": 2235,
                 "topics": [
                   "ast",
                   "python",
@@ -1580,7 +1580,7 @@
                 "open_issues": 87,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20442,
+                "stars": 20443,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T15:05:20.267Z",
+    "last_updated": "2026-09-02T14:37:55.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
