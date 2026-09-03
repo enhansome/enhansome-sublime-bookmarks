@@ -46,7 +46,7 @@
                 "open_issues": 8,
                 "owner": "titoBouzout",
                 "repo": "SideBarEnhancements",
-                "stars": 2221,
+                "stars": 2222,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -1215,7 +1215,7 @@
                 "open_issues": 0,
                 "owner": "vira-soft",
                 "repo": "vira-assets",
-                "stars": 11311,
+                "stars": 11312,
                 "topics": [
                   "epic",
                   "hacktoberfest",
@@ -1446,7 +1446,7 @@
                 "open_issues": 75,
                 "owner": "aziz",
                 "repo": "tmTheme-Editor",
-                "stars": 1695,
+                "stars": 1694,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -1580,7 +1580,7 @@
                 "open_issues": 87,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20443,
+                "stars": 20444,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T14:37:55.543Z",
+    "last_updated": "2026-09-03T14:41:23.564Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
