@@ -88,7 +88,7 @@
                 "open_issues": 19,
                 "owner": "SublimeLinter",
                 "repo": "SublimeLinter",
-                "stars": 2040,
+                "stars": 2039,
                 "topics": [
                   "linter",
                   "python",
@@ -621,7 +621,7 @@
                 "id": 14823414,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-08-25T17:40:46Z",
+                "last_commit": "2026-09-04T14:40:49Z",
                 "open_issues": 146,
                 "owner": "python-rope",
                 "repo": "rope",
@@ -1025,7 +1025,7 @@
                 "open_issues": 47,
                 "owner": "SublimeText-Markdown",
                 "repo": "MarkdownEditing",
-                "stars": 3325,
+                "stars": 3326,
                 "topics": [
                   "gfm",
                   "markdown",
@@ -1215,7 +1215,7 @@
                 "open_issues": 0,
                 "owner": "vira-soft",
                 "repo": "vira-assets",
-                "stars": 11313,
+                "stars": 11312,
                 "topics": [
                   "epic",
                   "hacktoberfest",
@@ -1580,7 +1580,7 @@
                 "open_issues": 87,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20446,
+                "stars": 20445,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T14:29:11.853Z",
+    "last_updated": "2026-09-05T13:30:02.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
