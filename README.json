@@ -599,7 +599,7 @@
                 "open_issues": 185,
                 "owner": "DamnWidget",
                 "repo": "anaconda",
-                "stars": 2241,
+                "stars": 2242,
                 "topics": [
                   "anaconda",
                   "ide-features",
@@ -621,11 +621,11 @@
                 "id": 14823414,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-04T14:40:49Z",
-                "open_issues": 146,
+                "last_commit": "2026-09-07T03:17:19Z",
+                "open_issues": 148,
                 "owner": "python-rope",
                 "repo": "rope",
-                "stars": 2235,
+                "stars": 2234,
                 "topics": [
                   "ast",
                   "python",
@@ -969,7 +969,7 @@
                 "open_issues": 64,
                 "owner": "SublimeText",
                 "repo": "LaTeXTools",
-                "stars": 2022,
+                "stars": 2023,
                 "topics": [
                   "auto-complete",
                   "latex",
@@ -1294,7 +1294,7 @@
                 "open_issues": 21,
                 "owner": "jamiewilson",
                 "repo": "predawn",
-                "stars": 1798,
+                "stars": 1797,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -1492,7 +1492,7 @@
                 "open_issues": 1,
                 "owner": "chriskempson",
                 "repo": "base16",
-                "stars": 963,
+                "stars": 962,
                 "topics": [
                   "base16",
                   "colour-schemes",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T13:45:16.204Z",
+    "last_updated": "2026-09-07T15:59:01.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
