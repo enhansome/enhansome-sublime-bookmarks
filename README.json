@@ -21,7 +21,7 @@
                 "open_issues": 10,
                 "owner": "jisaacks",
                 "repo": "GitGutter",
-                "stars": 3878,
+                "stars": 3877,
                 "topics": [
                   "color-scheme",
                   "gitgutter",
@@ -679,7 +679,7 @@
                 "open_issues": 35,
                 "owner": "srusskih",
                 "repo": "SublimeJEDI",
-                "stars": 928,
+                "stars": 927,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -791,7 +791,7 @@
                 "open_issues": 43,
                 "owner": "ternjs",
                 "repo": "tern_for_sublime",
-                "stars": 798,
+                "stars": 796,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -1025,7 +1025,7 @@
                 "open_issues": 47,
                 "owner": "SublimeText-Markdown",
                 "repo": "MarkdownEditing",
-                "stars": 3326,
+                "stars": 3325,
                 "topics": [
                   "gfm",
                   "markdown",
@@ -1084,7 +1084,7 @@
                 "open_issues": 5,
                 "owner": "farcaller",
                 "repo": "DashDoc",
-                "stars": 1318,
+                "stars": 1317,
                 "topics": [
                   "dash-docsets",
                   "sublime-text-3",
@@ -1215,7 +1215,7 @@
                 "open_issues": 0,
                 "owner": "vira-soft",
                 "repo": "vira-assets",
-                "stars": 11311,
+                "stars": 11310,
                 "topics": [
                   "epic",
                   "hacktoberfest",
@@ -1467,7 +1467,7 @@
                 "open_issues": 2,
                 "owner": "benweier",
                 "repo": "Schemr",
-                "stars": 134,
+                "stars": 133,
                 "topics": [
                   "schemes",
                   "sublime-package",
@@ -1492,7 +1492,7 @@
                 "open_issues": 1,
                 "owner": "chriskempson",
                 "repo": "base16",
-                "stars": 962,
+                "stars": 964,
                 "topics": [
                   "base16",
                   "colour-schemes",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T14:42:24.286Z",
+    "last_updated": "2026-09-09T14:43:50.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
