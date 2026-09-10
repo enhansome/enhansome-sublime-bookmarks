@@ -2,7 +2,7 @@
 
 > [Sublime Text](http://www.sublimetext.com/) is a cross-platform text and source code editor, with a Python application programming interface. Its functionality is extendable with plugins. Most of the extending packages have free-software licenses and are community-built and maintained. — [Wikipedia](https://en.wikipedia.org/wiki/Sublime_Text)
 
-This tiny project follows [GitHub community trend](https://github.com/sindresorhus/awesome) ⭐ 504,446 | 🐛 106 | 📅 2026-09-02 to aggregate the most essential bookmarks for specific subject in the form of a handy well-structured collection. Here you will find tutorials and learning materials for Sublime Text, general purpose extensions for coding and text editing, and specialized extensions grouped by usage profiles.
+This tiny project follows [GitHub community trend](https://github.com/sindresorhus/awesome) ⭐ 504,719 | 🐛 106 | 📅 2026-09-02 to aggregate the most essential bookmarks for specific subject in the form of a handy well-structured collection. Here you will find tutorials and learning materials for Sublime Text, general purpose extensions for coding and text editing, and specialized extensions grouped by usage profiles.
 
 This list not supposed to include absolutely all Sublime Text plugins, due we already have [Package Control](https://packagecontrol.io/) for this. It is intended to be a starting point helping to setup working environment, or check out for new extensions to make your existing Sublime setup more awesome. You may find ★ here and there in the list. It stands for Editors' Choice. Sharing and pull requests are very much appreciated!
 
@@ -94,7 +94,7 @@ Notes:
 Plugins:
 
 * [Anaconda](https://github.com/DamnWidget/anaconda) ⭐ 2,242 | 🐛 185 | 🌐 Python | 📅 2022-08-12 — autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker and Vagrant for Sublime Text 3 using Jedi, PyFlakes, pep8, PyLint, pep257 and McCabe that will never freeze your Sublime Text.
-* [Rope](https://github.com/python-rope/rope) ⭐ 2,234 | 🐛 148 | 🌐 Python | 📅 2026-09-07 — a Python refactoring library.
+* [Rope](https://github.com/python-rope/rope) ⭐ 2,234 | 🐛 149 | 🌐 Python | 📅 2026-09-07 — a Python refactoring library.
 * [MagicPython](https://github.com/MagicStack/MagicPython) ⭐ 1,442 | 🐛 70 | 🌐 JavaScript | 📅 2024-02-21 — Syntax highlighter for cutting edge Python for Sublime Text and Atom.
 * [SublimeJEDI](https://github.com/srusskih/SublimeJEDI) ⭐ 927 | 🐛 35 | 🌐 Python | 📅 2022-08-30 — Python autocompletion.
 * [Djaneiro](https://github.com/squ1b3r/Djaneiro) ⭐ 852 | 🐛 10 | 🌐 Python | 📅 2024-12-31 — Django support.
@@ -105,7 +105,7 @@ Plugins:
 
 * [JsFormat](https://github.com/jdc0589/JsFormat) ⭐ 1,421 | 🐛 11 | 🌐 Python | 📅 2022-04-05 — a JavaScript formatting plugin. It uses the command-line/python-module JavaScript formatter from <http://jsbeautifier.org> to format whole js or json files, or the selected portion(s).
 * [TernJS](https://github.com/ternjs/tern_for_sublime) ⭐ 796 | 🐛 43 | 🌐 Python | 📅 2022-11-07 — a JavaScript type inference engine integration.
-* [JavaScript Enhancements](https://github.com/pichillilorenzo/JavaScriptEnhancements) ⭐ 641 | 🐛 27 | 🌐 Python | 📅 2024-01-31 — plugin that offers smart javascript autocomplete, real-time errors and, also, a lot of features about creating, developing and managing javascript projects (such as Cordova, Ionic, React, etc.). It uses [Flow](https://github.com/facebook/flow) ⭐ 22,284 | 🐛 524 | 🌐 Rust | 📅 2026-09-09 (javascript static type checker from Facebook) under the hood.
+* [JavaScript Enhancements](https://github.com/pichillilorenzo/JavaScriptEnhancements) ⭐ 641 | 🐛 27 | 🌐 Python | 📅 2024-01-31 — plugin that offers smart javascript autocomplete, real-time errors and, also, a lot of features about creating, developing and managing javascript projects (such as Cordova, Ionic, React, etc.). It uses [Flow](https://github.com/facebook/flow) ⭐ 22,283 | 🐛 519 | 🌐 Rust | 📅 2026-09-10 (javascript static type checker from Facebook) under the hood.
 * [CoffeeScript](https://github.com/Xavura/CoffeeScript-Sublime-Plugin) ⭐ 285 | 🐛 30 | 🌐 Python | 📅 2019-08-10 — syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
 * [Bump](https://github.com/yavorsky/Bump) ⭐ 76 | 🐛 5 | 🌐 Python | 📅 2017-11-14 — plugin to keep package.json dependencies fresh. Shows latest npm/yarn dependency version in the neat tooltip on package hover.
 
@@ -167,7 +167,7 @@ Related extensions:
 
 Some of the most popular schemes:
 
-* [Base 16](https://github.com/chriskempson/base16) ⭐ 964 | 🐛 1 | 📅 2023-10-12 — carefully chosen syntax highlighting and a default set of sixteen colors.
+* [Base 16](https://github.com/chriskempson/base16) ⭐ 964 | 🐛 2 | 📅 2023-10-12 — carefully chosen syntax highlighting and a default set of sixteen colors.
 * [Dracula](https://github.com/dracula/sublime) ⭐ 102 | 🐛 11 | 📅 2025-06-24 - spooky color scheme, perfect for Halloween.  Also available for terminal and [several other applications](https://draculatheme.com/).
 * [Solarized](http://ethanschoonover.com/solarized) — balanced dark and light themes.
 
@@ -185,7 +185,7 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 
 ### Monospace Fonts
 
-* [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro) ⭐ 20,444 | 🐛 87 | 🌐 CSS | 📅 2025-10-28
+* [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro) ⭐ 20,445 | 🐛 87 | 🌐 CSS | 📅 2025-10-28
 * [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
 * [Bitstream Vera Sans Mono](http://www.dafont.com/bitstream-vera-mono.font)
 * [Consolas](http://www.fonts.com/font/microsoft-corporation/consolas) (goes with Microsoft Office)
@@ -206,7 +206,7 @@ See also:
 
 ## Other Bookmark Lists
 
-There are a lot of other bookmarks collections on GitHub. Take a look at metabookmarks list: <https://github.com/sindresorhus/awesome> ⭐ 504,446 | 🐛 106 | 📅 2026-09-02
+There are a lot of other bookmarks collections on GitHub. Take a look at metabookmarks list: <https://github.com/sindresorhus/awesome> ⭐ 504,719 | 🐛 106 | 📅 2026-09-02
 
 ## License
 
@@ -214,4 +214,4 @@ Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-s
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
