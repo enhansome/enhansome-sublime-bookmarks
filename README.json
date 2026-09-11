@@ -85,7 +85,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-01-23T10:58:16Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "SublimeLinter",
                 "repo": "SublimeLinter",
                 "stars": 2039,
@@ -625,7 +625,7 @@
                 "open_issues": 149,
                 "owner": "python-rope",
                 "repo": "rope",
-                "stars": 2234,
+                "stars": 2236,
                 "topics": [
                   "ast",
                   "python",
@@ -1580,7 +1580,7 @@
                 "open_issues": 87,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20445,
+                "stars": 20443,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T14:34:26.095Z",
+    "last_updated": "2026-09-11T14:33:18.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
