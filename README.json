@@ -622,7 +622,7 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-09-07T03:17:19Z",
-                "open_issues": 149,
+                "open_issues": 150,
                 "owner": "python-rope",
                 "repo": "rope",
                 "stars": 2236,
@@ -917,7 +917,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2023-10-12T04:30:20Z",
-                "open_issues": 125,
+                "open_issues": 124,
                 "owner": "victorporof",
                 "repo": "Sublime-HTMLPrettify",
                 "stars": 1948,
@@ -1051,7 +1051,7 @@
                 "open_issues": 1,
                 "owner": "revolunet",
                 "repo": "sublimetext-markdown-preview",
-                "stars": 2290,
+                "stars": 2289,
                 "topics": [
                   "markdown",
                   "plugin",
@@ -1315,7 +1315,7 @@
                 "open_issues": 32,
                 "owner": "wesbos",
                 "repo": "cobalt2",
-                "stars": 1559,
+                "stars": 1560,
                 "topics": [
                   "hacktoberfest",
                   "sublime-text"
@@ -1492,7 +1492,7 @@
                 "open_issues": 2,
                 "owner": "chriskempson",
                 "repo": "base16",
-                "stars": 964,
+                "stars": 965,
                 "topics": [
                   "base16",
                   "colour-schemes",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:41:08.937Z",
+    "last_updated": "2026-09-13T14:33:37.684Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
