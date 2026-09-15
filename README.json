@@ -255,7 +255,7 @@
                 "language": "HTML",
                 "license": null,
                 "last_commit": "2025-12-03T13:52:20Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "facelessuser",
                 "repo": "ApplySyntax",
                 "stars": 340,
@@ -540,7 +540,7 @@
                 "id": 2020693,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-05-08T22:03:22Z",
+                "last_commit": "2026-09-15T12:18:31Z",
                 "open_issues": 0,
                 "owner": "SublimeText",
                 "repo": "RSpec",
@@ -621,11 +621,11 @@
                 "id": 14823414,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-07T03:17:19Z",
-                "open_issues": 150,
+                "last_commit": "2026-09-15T14:40:10Z",
+                "open_issues": 152,
                 "owner": "python-rope",
                 "repo": "rope",
-                "stars": 2235,
+                "stars": 2236,
                 "topics": [
                   "ast",
                   "python",
@@ -1215,7 +1215,7 @@
                 "open_issues": 0,
                 "owner": "vira-soft",
                 "repo": "vira-assets",
-                "stars": 11309,
+                "stars": 11308,
                 "topics": [
                   "epic",
                   "hacktoberfest",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T16:27:55.891Z",
+    "last_updated": "2026-09-15T15:11:08.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
