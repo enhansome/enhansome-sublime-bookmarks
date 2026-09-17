@@ -46,7 +46,7 @@
                 "open_issues": 8,
                 "owner": "titoBouzout",
                 "repo": "SideBarEnhancements",
-                "stars": 2221,
+                "stars": 2222,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -216,7 +216,7 @@
                 "open_issues": 45,
                 "owner": "wbond",
                 "repo": "sublime_alignment",
-                "stars": 518,
+                "stars": 519,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -622,7 +622,7 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-09-15T15:59:30Z",
-                "open_issues": 150,
+                "open_issues": 151,
                 "owner": "python-rope",
                 "repo": "rope",
                 "stars": 2236,
@@ -1025,7 +1025,7 @@
                 "open_issues": 47,
                 "owner": "SublimeText-Markdown",
                 "repo": "MarkdownEditing",
-                "stars": 3325,
+                "stars": 3326,
                 "topics": [
                   "gfm",
                   "markdown",
@@ -1243,7 +1243,7 @@
                 "open_issues": 40,
                 "owner": "dempfi",
                 "repo": "ayu",
-                "stars": 4415,
+                "stars": 4416,
                 "topics": [
                   "ayu",
                   "dark-theme",
@@ -1273,7 +1273,7 @@
                 "open_issues": 43,
                 "owner": "thinkpixellab",
                 "repo": "flatland",
-                "stars": 2650,
+                "stars": 2651,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T15:07:16.400Z",
+    "last_updated": "2026-09-17T15:11:18.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
