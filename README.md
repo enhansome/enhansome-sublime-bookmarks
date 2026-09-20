@@ -2,7 +2,7 @@
 
 > [Sublime Text](http://www.sublimetext.com/) is a cross-platform text and source code editor, with a Python application programming interface. Its functionality is extendable with plugins. Most of the extending packages have free-software licenses and are community-built and maintained. — [Wikipedia](https://en.wikipedia.org/wiki/Sublime_Text)
 
-This tiny project follows [GitHub community trend](https://github.com/sindresorhus/awesome) ⭐ 507,734 | 🐛 106 | 📅 2026-09-02 to aggregate the most essential bookmarks for specific subject in the form of a handy well-structured collection. Here you will find tutorials and learning materials for Sublime Text, general purpose extensions for coding and text editing, and specialized extensions grouped by usage profiles.
+This tiny project follows [GitHub community trend](https://github.com/sindresorhus/awesome) ⭐ 508,093 | 🐛 106 | 📅 2026-09-02 to aggregate the most essential bookmarks for specific subject in the form of a handy well-structured collection. Here you will find tutorials and learning materials for Sublime Text, general purpose extensions for coding and text editing, and specialized extensions grouped by usage profiles.
 
 This list not supposed to include absolutely all Sublime Text plugins, due we already have [Package Control](https://packagecontrol.io/) for this. It is intended to be a starting point helping to setup working environment, or check out for new extensions to make your existing Sublime setup more awesome. You may find ★ here and there in the list. It stands for Editors' Choice. Sharing and pull requests are very much appreciated!
 
@@ -94,7 +94,7 @@ Notes:
 Plugins:
 
 * [Anaconda](https://github.com/DamnWidget/anaconda) ⭐ 2,242 | 🐛 185 | 🌐 Python | 📅 2022-08-12 — autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker and Vagrant for Sublime Text 3 using Jedi, PyFlakes, pep8, PyLint, pep257 and McCabe that will never freeze your Sublime Text.
-* [Rope](https://github.com/python-rope/rope) ⭐ 2,237 | 🐛 151 | 🌐 Python | 📅 2026-09-15 — a Python refactoring library.
+* [Rope](https://github.com/python-rope/rope) ⭐ 2,237 | 🐛 153 | 🌐 Python | 📅 2026-09-15 — a Python refactoring library.
 * [MagicPython](https://github.com/MagicStack/MagicPython) ⭐ 1,442 | 🐛 70 | 🌐 JavaScript | 📅 2024-02-21 — Syntax highlighter for cutting edge Python for Sublime Text and Atom.
 * [SublimeJEDI](https://github.com/srusskih/SublimeJEDI) ⭐ 927 | 🐛 35 | 🌐 Python | 📅 2022-08-30 — Python autocompletion.
 * [Djaneiro](https://github.com/squ1b3r/Djaneiro) ⭐ 853 | 🐛 10 | 🌐 Python | 📅 2024-12-31 — Django support.
@@ -143,7 +143,7 @@ Plugins:
 
 ### Themes
 
-* [Material theme](https://github.com/equinusocio/material-theme) ⭐ 11,306 | 🐛 0 | 📅 2026-06-28 — This theme brings the Material Design visual language. <http://equinsuocha.io/material-theme>
+* [Material theme](https://github.com/equinusocio/material-theme) ⭐ 11,305 | 🐛 0 | 📅 2026-06-28 — This theme brings the Material Design visual language. <http://equinsuocha.io/material-theme>
 * [Ayu](https://github.com/dempfi/ayu) ⭐ 4,415 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2026-01-16 — A simple theme with bright colors and comes in three versions — dark, mirage and light for all day long comfortable work.
 * [Flatland](https://github.com/thinkpixellab/flatland) ⚠️ Archived — A simple theme and accompanying color scheme for Sublime Text 2 & 3. It is mostly derived from Soda, the right place to start for any custom theme development for Sublime.
 * [Predawn](https://github.com/jamiewilson/predawn) ⭐ 1,797 | 🐛 21 | 🌐 CSS | 📅 2024-10-30 — Dark interface and syntax theme for Sublime Text and Atom. <http://jamiewilson.io/predawn>
@@ -185,7 +185,7 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 
 ### Monospace Fonts
 
-* [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro) ⭐ 20,447 | 🐛 87 | 🌐 CSS | 📅 2025-10-28
+* [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro) ⭐ 20,449 | 🐛 87 | 🌐 CSS | 📅 2025-10-28
 * [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
 * [Bitstream Vera Sans Mono](http://www.dafont.com/bitstream-vera-mono.font)
 * [Consolas](http://www.fonts.com/font/microsoft-corporation/consolas) (goes with Microsoft Office)
@@ -206,7 +206,7 @@ See also:
 
 ## Other Bookmark Lists
 
-There are a lot of other bookmarks collections on GitHub. Take a look at metabookmarks list: <https://github.com/sindresorhus/awesome> ⭐ 507,734 | 🐛 106 | 📅 2026-09-02
+There are a lot of other bookmarks collections on GitHub. Take a look at metabookmarks list: <https://github.com/sindresorhus/awesome> ⭐ 508,093 | 🐛 106 | 📅 2026-09-02
 
 ## License
 
@@ -214,4 +214,4 @@ Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-s
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

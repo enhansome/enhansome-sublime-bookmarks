@@ -622,7 +622,7 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-09-15T15:59:30Z",
-                "open_issues": 151,
+                "open_issues": 153,
                 "owner": "python-rope",
                 "repo": "rope",
                 "stars": 2237,
@@ -1215,7 +1215,7 @@
                 "open_issues": 0,
                 "owner": "vira-soft",
                 "repo": "vira-assets",
-                "stars": 11306,
+                "stars": 11305,
                 "topics": [
                   "epic",
                   "hacktoberfest",
@@ -1580,7 +1580,7 @@
                 "open_issues": 87,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20447,
+                "stars": 20449,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T13:57:52.097Z",
+    "last_updated": "2026-09-20T14:18:34.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
