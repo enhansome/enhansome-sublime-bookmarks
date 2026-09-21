@@ -46,7 +46,7 @@
                 "open_issues": 8,
                 "owner": "titoBouzout",
                 "repo": "SideBarEnhancements",
-                "stars": 2222,
+                "stars": 2223,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -622,10 +622,10 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-09-15T15:59:30Z",
-                "open_issues": 153,
+                "open_issues": 154,
                 "owner": "python-rope",
                 "repo": "rope",
-                "stars": 2237,
+                "stars": 2238,
                 "topics": [
                   "ast",
                   "python",
@@ -1339,7 +1339,7 @@
                 "open_issues": 11,
                 "owner": "lefoy",
                 "repo": "cyanide-theme",
-                "stars": 172,
+                "stars": 173,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -1580,7 +1580,7 @@
                 "open_issues": 87,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20449,
+                "stars": 20450,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T14:18:34.396Z",
+    "last_updated": "2026-09-21T16:32:43.366Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
@@ -1614,7 +1614,7 @@
       "open_issues": 1,
       "owner": "dreikanter",
       "repo": "sublime-bookmarks",
-      "stars": 1076,
+      "stars": 1077,
       "topics": [
         "awesome",
         "awesome-list",
