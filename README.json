@@ -84,8 +84,8 @@
                 "id": 13782029,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-01-23T10:58:16Z",
-                "open_issues": 20,
+                "last_commit": "2026-09-21T18:49:00Z",
+                "open_issues": 19,
                 "owner": "SublimeLinter",
                 "repo": "SublimeLinter",
                 "stars": 2039,
@@ -1025,7 +1025,7 @@
                 "open_issues": 47,
                 "owner": "SublimeText-Markdown",
                 "repo": "MarkdownEditing",
-                "stars": 3326,
+                "stars": 3328,
                 "topics": [
                   "gfm",
                   "markdown",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T16:32:43.366Z",
+    "last_updated": "2026-09-22T15:06:57.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
