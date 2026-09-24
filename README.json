@@ -21,7 +21,7 @@
                 "open_issues": 10,
                 "owner": "jisaacks",
                 "repo": "GitGutter",
-                "stars": 3878,
+                "stars": 3879,
                 "topics": [
                   "color-scheme",
                   "gitgutter",
@@ -1025,7 +1025,7 @@
                 "open_issues": 48,
                 "owner": "SublimeText-Markdown",
                 "repo": "MarkdownEditing",
-                "stars": 3328,
+                "stars": 3329,
                 "topics": [
                   "gfm",
                   "markdown",
@@ -1051,7 +1051,7 @@
                 "open_issues": 1,
                 "owner": "revolunet",
                 "repo": "sublimetext-markdown-preview",
-                "stars": 2289,
+                "stars": 2290,
                 "topics": [
                   "markdown",
                   "plugin",
@@ -1215,7 +1215,7 @@
                 "open_issues": 0,
                 "owner": "vira-soft",
                 "repo": "vira-assets",
-                "stars": 11304,
+                "stars": 11305,
                 "topics": [
                   "epic",
                   "hacktoberfest",
@@ -1243,7 +1243,7 @@
                 "open_issues": 41,
                 "owner": "dempfi",
                 "repo": "ayu",
-                "stars": 4417,
+                "stars": 4419,
                 "topics": [
                   "ayu",
                   "dark-theme",
@@ -1273,7 +1273,7 @@
                 "open_issues": 43,
                 "owner": "thinkpixellab",
                 "repo": "flatland",
-                "stars": 2651,
+                "stars": 2652,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -1339,7 +1339,7 @@
                 "open_issues": 11,
                 "owner": "lefoy",
                 "repo": "cyanide-theme",
-                "stars": 173,
+                "stars": 174,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -1492,7 +1492,7 @@
                 "open_issues": 2,
                 "owner": "chriskempson",
                 "repo": "base16",
-                "stars": 967,
+                "stars": 968,
                 "topics": [
                   "base16",
                   "colour-schemes",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T15:08:59.684Z",
+    "last_updated": "2026-09-24T15:23:56.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
