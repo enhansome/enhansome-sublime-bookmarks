@@ -21,7 +21,7 @@
                 "open_issues": 10,
                 "owner": "jisaacks",
                 "repo": "GitGutter",
-                "stars": 3879,
+                "stars": 3878,
                 "topics": [
                   "color-scheme",
                   "gitgutter",
@@ -141,7 +141,7 @@
                 "open_issues": 28,
                 "owner": "SublimeText",
                 "repo": "Origami",
-                "stars": 1222,
+                "stars": 1221,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -622,7 +622,7 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-09-26T14:25:57Z",
-                "open_issues": 153,
+                "open_issues": 156,
                 "owner": "python-rope",
                 "repo": "rope",
                 "stars": 2239,
@@ -969,7 +969,7 @@
                 "open_issues": 63,
                 "owner": "SublimeText",
                 "repo": "LaTeXTools",
-                "stars": 2023,
+                "stars": 2022,
                 "topics": [
                   "auto-complete",
                   "latex",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T14:38:58.110Z",
+    "last_updated": "2026-09-27T15:13:26.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
@@ -1614,7 +1614,7 @@
       "open_issues": 1,
       "owner": "dreikanter",
       "repo": "sublime-bookmarks",
-      "stars": 1077,
+      "stars": 1078,
       "topics": [
         "awesome",
         "awesome-list",
