@@ -114,7 +114,7 @@
                 "open_issues": 8,
                 "owner": "sindresorhus",
                 "repo": "editorconfig-sublime",
-                "stars": 1775,
+                "stars": 1776,
                 "topics": [
                   "editorconfig",
                   "python",
@@ -621,11 +621,11 @@
                 "id": 14823414,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-26T14:25:57Z",
-                "open_issues": 156,
+                "last_commit": "2026-09-28T17:41:21Z",
+                "open_issues": 157,
                 "owner": "python-rope",
                 "repo": "rope",
-                "stars": 2239,
+                "stars": 2238,
                 "topics": [
                   "ast",
                   "python",
@@ -965,11 +965,11 @@
                 "id": 1530210,
                 "language": "Common Workflow Language",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-14T15:44:32Z",
-                "open_issues": 63,
+                "last_commit": "2026-09-27T17:22:52Z",
+                "open_issues": 64,
                 "owner": "SublimeText",
                 "repo": "LaTeXTools",
-                "stars": 2022,
+                "stars": 2021,
                 "topics": [
                   "auto-complete",
                   "latex",
@@ -1215,7 +1215,7 @@
                 "open_issues": 0,
                 "owner": "vira-soft",
                 "repo": "vira-assets",
-                "stars": 11304,
+                "stars": 11305,
                 "topics": [
                   "epic",
                   "hacktoberfest",
@@ -1239,11 +1239,11 @@
                 "id": 68292645,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-01-16T09:03:44Z",
-                "open_issues": 41,
+                "last_commit": "2026-09-27T16:17:18Z",
+                "open_issues": 38,
                 "owner": "dempfi",
                 "repo": "ayu",
-                "stars": 4419,
+                "stars": 4416,
                 "topics": [
                   "ayu",
                   "dark-theme",
@@ -1580,7 +1580,7 @@
                 "open_issues": 87,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20451,
+                "stars": 20450,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T15:13:26.741Z",
+    "last_updated": "2026-09-28T18:13:49.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
