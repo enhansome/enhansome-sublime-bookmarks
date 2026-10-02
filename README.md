@@ -2,7 +2,7 @@
 
 > [Sublime Text](http://www.sublimetext.com/) is a cross-platform text and source code editor, with a Python application programming interface. Its functionality is extendable with plugins. Most of the extending packages have free-software licenses and are community-built and maintained. — [Wikipedia](https://en.wikipedia.org/wiki/Sublime_Text)
 
-This tiny project follows [GitHub community trend](https://github.com/sindresorhus/awesome) ⭐ 513,142 | 🐛 106 | 📅 2026-09-02 to aggregate the most essential bookmarks for specific subject in the form of a handy well-structured collection. Here you will find tutorials and learning materials for Sublime Text, general purpose extensions for coding and text editing, and specialized extensions grouped by usage profiles.
+This tiny project follows [GitHub community trend](https://github.com/sindresorhus/awesome) ⭐ 513,604 | 🐛 106 | 📅 2026-09-02 to aggregate the most essential bookmarks for specific subject in the form of a handy well-structured collection. Here you will find tutorials and learning materials for Sublime Text, general purpose extensions for coding and text editing, and specialized extensions grouped by usage profiles.
 
 This list not supposed to include absolutely all Sublime Text plugins, due we already have [Package Control](https://packagecontrol.io/) for this. It is intended to be a starting point helping to setup working environment, or check out for new extensions to make your existing Sublime setup more awesome. You may find ★ here and there in the list. It stands for Editors' Choice. Sharing and pull requests are very much appreciated!
 
@@ -52,7 +52,7 @@ Alive projects only, with Sublime Text version 3 support.
 * [EditorConfig](https://github.com/sindresorhus/editorconfig-sublime) ⭐ 1,777 | 🐛 8 | 🌐 Python | 📅 2026-03-22 — .editorconfig support.
 * [Origami](https://github.com/SublimeText/Origami) ⭐ 1,221 | 🐛 28 | 🌐 Python | 📅 2023-11-07 — split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.
 * [All Autocomplete](https://github.com/alienhard/SublimeAllAutocomplete) ⭐ 918 | 🐛 16 | 🌐 Python | 📅 2021-07-19 — extends the default autocomplete to find matches in all open files.
-* [Trailing Spaces](https://github.com/SublimeText/TrailingSpaces) ⭐ 890 | 🐛 12 | 🌐 Python | 📅 2023-06-24 — highlight trailing spaces and delete them in a flash.
+* [Trailing Spaces](https://github.com/SublimeText/TrailingSpaces) ⭐ 889 | 🐛 12 | 🌐 Python | 📅 2023-06-24 — highlight trailing spaces and delete them in a flash.
 * [Sublime Alignment](https://github.com/wbond/sublime_alignment) ⭐ 519 | 🐛 45 | 🌐 Python | 📅 2022-10-18 — a simple key-binding for aligning multi-line and multiple selections.
 * [SublimeFileBrowser](https://github.com/aziz/SublimeFileBrowser) ⭐ 398 | 🐛 26 | 🌐 Python | 📅 2020-03-28 - Ditch the sidebar and browse your files in a normal tab with your keyboard, like a pro! Also, [Dired](https://en.wikipedia.org/wiki/Dired) lets you modify your directory structure using the powerful text editing feature that ST provides.
 * [ApplySyntax](https://github.com/facelessuser/ApplySyntax) ⭐ 340 | 🐛 4 | 🌐 HTML | 📅 2025-12-03 — a plugin that allows to detect and apply the syntax of files that might not otherwise be detected properly. For example, files with the .rb extension are usually Ruby files, but when they are found in a Rails project, they could be RSpec spec files, Cucumber step files, Ruby on Rails files (controllers, models, etc), or just plain Ruby files.
@@ -94,8 +94,8 @@ Notes:
 Plugins:
 
 * [Anaconda](https://github.com/DamnWidget/anaconda) ⭐ 2,243 | 🐛 185 | 🌐 Python | 📅 2022-08-12 — autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker and Vagrant for Sublime Text 3 using Jedi, PyFlakes, pep8, PyLint, pep257 and McCabe that will never freeze your Sublime Text.
-* [Rope](https://github.com/python-rope/rope) ⭐ 2,239 | 🐛 155 | 🌐 Python | 📅 2026-09-28 — a Python refactoring library.
-* [MagicPython](https://github.com/MagicStack/MagicPython) ⭐ 1,442 | 🐛 70 | 🌐 JavaScript | 📅 2024-02-21 — Syntax highlighter for cutting edge Python for Sublime Text and Atom.
+* [Rope](https://github.com/python-rope/rope) ⭐ 2,239 | 🐛 157 | 🌐 Python | 📅 2026-09-28 — a Python refactoring library.
+* [MagicPython](https://github.com/MagicStack/MagicPython) ⭐ 1,443 | 🐛 70 | 🌐 JavaScript | 📅 2024-02-21 — Syntax highlighter for cutting edge Python for Sublime Text and Atom.
 * [SublimeJEDI](https://github.com/srusskih/SublimeJEDI) ⭐ 927 | 🐛 35 | 🌐 Python | 📅 2022-08-30 — Python autocompletion.
 * [Djaneiro](https://github.com/squ1b3r/Djaneiro) ⭐ 853 | 🐛 10 | 🌐 Python | 📅 2024-12-31 — Django support.
 * [SublimePythonTidy](https://github.com/witsch/SublimePythonTidy) ⭐ 41 | 🐛 7 | 🌐 Python | 📅 2013-03-12 — [PythonTidy](https://pypi.python.org/pypi/PythonTidy/) integration.
@@ -105,7 +105,7 @@ Plugins:
 
 * [JsFormat](https://github.com/jdc0589/JsFormat) ⭐ 1,420 | 🐛 11 | 🌐 Python | 📅 2022-04-05 — a JavaScript formatting plugin. It uses the command-line/python-module JavaScript formatter from <http://jsbeautifier.org> to format whole js or json files, or the selected portion(s).
 * [TernJS](https://github.com/ternjs/tern_for_sublime) ⭐ 796 | 🐛 43 | 🌐 Python | 📅 2022-11-07 — a JavaScript type inference engine integration.
-* [JavaScript Enhancements](https://github.com/pichillilorenzo/JavaScriptEnhancements) ⭐ 641 | 🐛 28 | 🌐 Python | 📅 2024-01-31 — plugin that offers smart javascript autocomplete, real-time errors and, also, a lot of features about creating, developing and managing javascript projects (such as Cordova, Ionic, React, etc.). It uses [Flow](https://github.com/facebook/flow) ⭐ 22,298 | 🐛 517 | 🌐 Rust | 📅 2026-10-01 (javascript static type checker from Facebook) under the hood.
+* [JavaScript Enhancements](https://github.com/pichillilorenzo/JavaScriptEnhancements) ⭐ 641 | 🐛 28 | 🌐 Python | 📅 2024-01-31 — plugin that offers smart javascript autocomplete, real-time errors and, also, a lot of features about creating, developing and managing javascript projects (such as Cordova, Ionic, React, etc.). It uses [Flow](https://github.com/facebook/flow) ⭐ 22,297 | 🐛 517 | 🌐 Rust | 📅 2026-10-02 (javascript static type checker from Facebook) under the hood.
 * [CoffeeScript](https://github.com/Xavura/CoffeeScript-Sublime-Plugin) ⭐ 285 | 🐛 30 | 🌐 Python | 📅 2019-08-10 — syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
 * [Bump](https://github.com/yavorsky/Bump) ⭐ 76 | 🐛 5 | 🌐 Python | 📅 2017-11-14 — plugin to keep package.json dependencies fresh. Shows latest npm/yarn dependency version in the neat tooltip on package hover.
 
@@ -118,7 +118,7 @@ Plugins:
 
 ### LaTeX Profile
 
-* [LaTeXTools](https://github.com/SublimeText/LaTeXTools) ⭐ 2,021 | 🐛 63 | 🌐 Common Workflow Language | 📅 2026-10-01 — an open-source plugin that simplifies working with LaTeX files.
+* [LaTeXTools](https://github.com/SublimeText/LaTeXTools) ⭐ 2,021 | 🐛 64 | 🌐 Common Workflow Language | 📅 2026-10-01 — an open-source plugin that simplifies working with LaTeX files.
 * [LaTeXing](https://github.com/LaTeXing/LaTeXing) ⭐ 82 | 🐛 141 | 🌐 Python | 📅 2019-03-19 — an extension for which makes your life easier and more comfortable while creating your documents.
 
 ### Markdown Editing Profile
@@ -167,7 +167,7 @@ Related extensions:
 
 Some of the most popular schemes:
 
-* [Base 16](https://github.com/chriskempson/base16) ⭐ 969 | 🐛 2 | 📅 2023-10-12 — carefully chosen syntax highlighting and a default set of sixteen colors.
+* [Base 16](https://github.com/chriskempson/base16) ⭐ 970 | 🐛 2 | 📅 2023-10-12 — carefully chosen syntax highlighting and a default set of sixteen colors.
 * [Dracula](https://github.com/dracula/sublime) ⭐ 102 | 🐛 11 | 📅 2025-06-24 - spooky color scheme, perfect for Halloween.  Also available for terminal and [several other applications](https://draculatheme.com/).
 * [Solarized](http://ethanschoonover.com/solarized) — balanced dark and light themes.
 
@@ -206,7 +206,7 @@ See also:
 
 ## Other Bookmark Lists
 
-There are a lot of other bookmarks collections on GitHub. Take a look at metabookmarks list: <https://github.com/sindresorhus/awesome> ⭐ 513,142 | 🐛 106 | 📅 2026-09-02
+There are a lot of other bookmarks collections on GitHub. Take a look at metabookmarks list: <https://github.com/sindresorhus/awesome> ⭐ 513,604 | 🐛 106 | 📅 2026-09-02
 
 ## License
 
@@ -214,4 +214,4 @@ Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-s
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
