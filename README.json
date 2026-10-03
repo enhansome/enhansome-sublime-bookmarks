@@ -965,8 +965,8 @@
                 "id": 1530210,
                 "language": "Common Workflow Language",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T16:09:26Z",
-                "open_issues": 64,
+                "last_commit": "2026-10-03T10:33:50Z",
+                "open_issues": 63,
                 "owner": "SublimeText",
                 "repo": "LaTeXTools",
                 "stars": 2021,
@@ -1025,7 +1025,7 @@
                 "open_issues": 48,
                 "owner": "SublimeText-Markdown",
                 "repo": "MarkdownEditing",
-                "stars": 3331,
+                "stars": 3330,
                 "topics": [
                   "gfm",
                   "markdown",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:08:10.092Z",
+    "last_updated": "2026-10-03T14:47:52.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
