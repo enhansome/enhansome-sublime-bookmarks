@@ -84,7 +84,7 @@
                 "id": 13782029,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T07:21:49Z",
+                "last_commit": "2026-10-02T21:48:48Z",
                 "open_issues": 21,
                 "owner": "SublimeLinter",
                 "repo": "SublimeLinter",
@@ -114,7 +114,7 @@
                 "open_issues": 8,
                 "owner": "sindresorhus",
                 "repo": "editorconfig-sublime",
-                "stars": 1777,
+                "stars": 1776,
                 "topics": [
                   "editorconfig",
                   "python",
@@ -162,7 +162,7 @@
                 "open_issues": 16,
                 "owner": "alienhard",
                 "repo": "SublimeAllAutocomplete",
-                "stars": 918,
+                "stars": 917,
                 "topics": [
                   "autocomplete",
                   "plugin",
@@ -531,7 +531,7 @@
             {
               "node_type": "item",
               "title": "RSpec plugin",
-              "description": null,
+              "description": "SublimeText/RSpec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -599,7 +599,7 @@
                 "open_issues": 185,
                 "owner": "DamnWidget",
                 "repo": "anaconda",
-                "stars": 2243,
+                "stars": 2242,
                 "topics": [
                   "anaconda",
                   "ide-features",
@@ -625,7 +625,7 @@
                 "open_issues": 157,
                 "owner": "python-rope",
                 "repo": "rope",
-                "stars": 2239,
+                "stars": 2238,
                 "topics": [
                   "ast",
                   "python",
@@ -907,7 +907,7 @@
             {
               "node_type": "item",
               "title": "HTMLPrettify",
-              "description": null,
+              "description": "victorporof/Sublime-HTMLPrettify",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1215,7 +1215,7 @@
                 "open_issues": 0,
                 "owner": "vira-soft",
                 "repo": "vira-assets",
-                "stars": 11303,
+                "stars": 11304,
                 "topics": [
                   "epic",
                   "hacktoberfest",
@@ -1492,7 +1492,7 @@
                 "open_issues": 2,
                 "owner": "chriskempson",
                 "repo": "base16",
-                "stars": 970,
+                "stars": 969,
                 "topics": [
                   "base16",
                   "colour-schemes",
@@ -1539,7 +1539,7 @@
             {
               "node_type": "item",
               "title": "By Tomas Sykora",
-              "description": null,
+              "description": "syky27/Sublime-Text-Icon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1567,7 +1567,7 @@
             {
               "node_type": "item",
               "title": "Adobe Source Code Pro",
-              "description": null,
+              "description": "adobe-fonts/source-code-pro",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:20:02.343Z",
+    "last_updated": "2026-10-03T05:08:10.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
