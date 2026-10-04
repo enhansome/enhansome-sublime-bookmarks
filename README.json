@@ -88,7 +88,7 @@
                 "open_issues": 21,
                 "owner": "SublimeLinter",
                 "repo": "SublimeLinter",
-                "stars": 2040,
+                "stars": 2038,
                 "topics": [
                   "linter",
                   "python",
@@ -1243,7 +1243,7 @@
                 "open_issues": 39,
                 "owner": "dempfi",
                 "repo": "ayu",
-                "stars": 4419,
+                "stars": 4420,
                 "topics": [
                   "ayu",
                   "dark-theme",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:47:52.872Z",
+    "last_updated": "2026-10-04T15:27:47.486Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
