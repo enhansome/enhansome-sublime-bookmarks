@@ -621,7 +621,7 @@
                 "id": 14823414,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-07T15:45:55Z",
+                "last_commit": "2026-10-08T13:44:42Z",
                 "open_issues": 158,
                 "owner": "python-rope",
                 "repo": "rope",
@@ -1025,7 +1025,7 @@
                 "open_issues": 48,
                 "owner": "SublimeText-Markdown",
                 "repo": "MarkdownEditing",
-                "stars": 3332,
+                "stars": 3334,
                 "topics": [
                   "gfm",
                   "markdown",
@@ -1215,7 +1215,7 @@
                 "open_issues": 0,
                 "owner": "vira-soft",
                 "repo": "vira-assets",
-                "stars": 11304,
+                "stars": 11305,
                 "topics": [
                   "epic",
                   "hacktoberfest",
@@ -1239,8 +1239,8 @@
                 "id": 68292645,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-27T16:17:18Z",
-                "open_issues": 39,
+                "last_commit": "2026-10-08T03:37:06Z",
+                "open_issues": 15,
                 "owner": "dempfi",
                 "repo": "ayu",
                 "stars": 4418,
@@ -1315,7 +1315,7 @@
                 "open_issues": 32,
                 "owner": "wesbos",
                 "repo": "cobalt2",
-                "stars": 1561,
+                "stars": 1562,
                 "topics": [
                   "hacktoberfest",
                   "sublime-text"
@@ -1580,7 +1580,7 @@
                 "open_issues": 87,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20450,
+                "stars": 20452,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T17:30:05.095Z",
+    "last_updated": "2026-10-08T17:30:51.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
