@@ -676,7 +676,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2022-08-30T09:04:37Z",
-                "open_issues": 35,
+                "open_issues": 38,
                 "owner": "srusskih",
                 "repo": "SublimeJEDI",
                 "stars": 927,
@@ -1022,10 +1022,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-21T16:00:28Z",
-                "open_issues": 48,
+                "open_issues": 49,
                 "owner": "SublimeText-Markdown",
                 "repo": "MarkdownEditing",
-                "stars": 3334,
+                "stars": 3335,
                 "topics": [
                   "gfm",
                   "markdown",
@@ -1240,7 +1240,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-10-08T03:37:06Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "dempfi",
                 "repo": "ayu",
                 "stars": 4418,
@@ -1519,7 +1519,7 @@
                 "open_issues": 11,
                 "owner": "dracula",
                 "repo": "sublime",
-                "stars": 102,
+                "stars": 103,
                 "topics": [
                   "dark-theme",
                   "dracula",
@@ -1580,7 +1580,7 @@
                 "open_issues": 87,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20452,
+                "stars": 20453,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T17:30:51.289Z",
+    "last_updated": "2026-10-09T17:07:54.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
