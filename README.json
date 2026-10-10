@@ -622,7 +622,7 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-10-08T13:44:42Z",
-                "open_issues": 158,
+                "open_issues": 161,
                 "owner": "python-rope",
                 "repo": "rope",
                 "stars": 2239,
@@ -651,7 +651,7 @@
                 "open_issues": 70,
                 "owner": "MagicStack",
                 "repo": "MagicPython",
-                "stars": 1442,
+                "stars": 1441,
                 "topics": [
                   "atom",
                   "python",
@@ -770,7 +770,7 @@
                 "open_issues": 11,
                 "owner": "jdavisclark",
                 "repo": "JsFormat",
-                "stars": 1420,
+                "stars": 1419,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -1021,11 +1021,11 @@
                 "id": 4361634,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-21T16:00:28Z",
+                "last_commit": "2026-10-10T15:46:32Z",
                 "open_issues": 49,
                 "owner": "SublimeText-Markdown",
                 "repo": "MarkdownEditing",
-                "stars": 3335,
+                "stars": 3336,
                 "topics": [
                   "gfm",
                   "markdown",
@@ -1215,7 +1215,7 @@
                 "open_issues": 0,
                 "owner": "vira-soft",
                 "repo": "vira-assets",
-                "stars": 11305,
+                "stars": 11306,
                 "topics": [
                   "epic",
                   "hacktoberfest",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T17:07:54.779Z",
+    "last_updated": "2026-10-10T15:55:51.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
