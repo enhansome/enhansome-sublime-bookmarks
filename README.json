@@ -88,7 +88,7 @@
                 "open_issues": 21,
                 "owner": "SublimeLinter",
                 "repo": "SublimeLinter",
-                "stars": 2038,
+                "stars": 2039,
                 "topics": [
                   "linter",
                   "python",
@@ -622,7 +622,7 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-10-08T13:44:42Z",
-                "open_issues": 161,
+                "open_issues": 164,
                 "owner": "python-rope",
                 "repo": "rope",
                 "stars": 2239,
@@ -651,7 +651,7 @@
                 "open_issues": 70,
                 "owner": "MagicStack",
                 "repo": "MagicPython",
-                "stars": 1441,
+                "stars": 1442,
                 "topics": [
                   "atom",
                   "python",
@@ -700,7 +700,7 @@
                 "open_issues": 10,
                 "owner": "squ1b3r",
                 "repo": "Djaneiro",
-                "stars": 853,
+                "stars": 852,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -1021,7 +1021,7 @@
                 "id": 4361634,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-10T15:46:32Z",
+                "last_commit": "2026-10-11T07:46:52Z",
                 "open_issues": 49,
                 "owner": "SublimeText-Markdown",
                 "repo": "MarkdownEditing",
@@ -1243,7 +1243,7 @@
                 "open_issues": 16,
                 "owner": "dempfi",
                 "repo": "ayu",
-                "stars": 4418,
+                "stars": 4419,
                 "topics": [
                   "ayu",
                   "dark-theme",
@@ -1580,7 +1580,7 @@
                 "open_issues": 87,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20453,
+                "stars": 20452,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T15:55:51.239Z",
+    "last_updated": "2026-10-11T16:23:44.123Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
@@ -1614,7 +1614,7 @@
       "open_issues": 1,
       "owner": "dreikanter",
       "repo": "sublime-bookmarks",
-      "stars": 1078,
+      "stars": 1077,
       "topics": [
         "awesome",
         "awesome-list",
