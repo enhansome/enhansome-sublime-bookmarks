@@ -625,7 +625,7 @@
                 "open_issues": 166,
                 "owner": "python-rope",
                 "repo": "rope",
-                "stars": 2239,
+                "stars": 2240,
                 "topics": [
                   "ast",
                   "python",
@@ -966,10 +966,10 @@
                 "language": "Common Workflow Language",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-03T10:33:50Z",
-                "open_issues": 63,
+                "open_issues": 65,
                 "owner": "SublimeText",
                 "repo": "LaTeXTools",
-                "stars": 2022,
+                "stars": 2023,
                 "topics": [
                   "auto-complete",
                   "latex",
@@ -1051,7 +1051,7 @@
                 "open_issues": 1,
                 "owner": "revolunet",
                 "repo": "sublimetext-markdown-preview",
-                "stars": 2291,
+                "stars": 2290,
                 "topics": [
                   "markdown",
                   "plugin",
@@ -1215,7 +1215,7 @@
                 "open_issues": 0,
                 "owner": "vira-soft",
                 "repo": "vira-assets",
-                "stars": 11305,
+                "stars": 11304,
                 "topics": [
                   "epic",
                   "hacktoberfest",
@@ -1243,7 +1243,7 @@
                 "open_issues": 16,
                 "owner": "dempfi",
                 "repo": "ayu",
-                "stars": 4419,
+                "stars": 4418,
                 "topics": [
                   "ayu",
                   "dark-theme",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T19:57:03.554Z",
+    "last_updated": "2026-10-13T17:43:36.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
