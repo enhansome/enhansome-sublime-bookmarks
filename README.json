@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "jisaacks",
                 "repo": "GitGutter",
-                "stars": 3877,
+                "stars": 3878,
                 "topics": [
                   "color-scheme",
                   "gitgutter",
@@ -88,7 +88,7 @@
                 "open_issues": 21,
                 "owner": "SublimeLinter",
                 "repo": "SublimeLinter",
-                "stars": 2039,
+                "stars": 2040,
                 "topics": [
                   "linter",
                   "python",
@@ -114,7 +114,7 @@
                 "open_issues": 8,
                 "owner": "sindresorhus",
                 "repo": "editorconfig-sublime",
-                "stars": 1776,
+                "stars": 1775,
                 "topics": [
                   "editorconfig",
                   "python",
@@ -679,7 +679,7 @@
                 "open_issues": 38,
                 "owner": "srusskih",
                 "repo": "SublimeJEDI",
-                "stars": 926,
+                "stars": 927,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -791,7 +791,7 @@
                 "open_issues": 43,
                 "owner": "ternjs",
                 "repo": "tern_for_sublime",
-                "stars": 796,
+                "stars": 797,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -812,7 +812,7 @@
                 "open_issues": 28,
                 "owner": "pichillilorenzo",
                 "repo": "JavaScriptEnhancements",
-                "stars": 641,
+                "stars": 640,
                 "topics": [
                   "autocomplete",
                   "completions",
@@ -966,7 +966,7 @@
                 "language": "Common Workflow Language",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-03T10:33:50Z",
-                "open_issues": 65,
+                "open_issues": 66,
                 "owner": "SublimeText",
                 "repo": "LaTeXTools",
                 "stars": 2023,
@@ -1025,7 +1025,7 @@
                 "open_issues": 49,
                 "owner": "SublimeText-Markdown",
                 "repo": "MarkdownEditing",
-                "stars": 3336,
+                "stars": 3339,
                 "topics": [
                   "gfm",
                   "markdown",
@@ -1084,7 +1084,7 @@
                 "open_issues": 5,
                 "owner": "farcaller",
                 "repo": "DashDoc",
-                "stars": 1317,
+                "stars": 1318,
                 "topics": [
                   "dash-docsets",
                   "sublime-text-3",
@@ -1243,7 +1243,7 @@
                 "open_issues": 16,
                 "owner": "dempfi",
                 "repo": "ayu",
-                "stars": 4418,
+                "stars": 4417,
                 "topics": [
                   "ayu",
                   "dark-theme",
@@ -1467,7 +1467,7 @@
                 "open_issues": 2,
                 "owner": "benweier",
                 "repo": "Schemr",
-                "stars": 133,
+                "stars": 134,
                 "topics": [
                   "schemes",
                   "sublime-package",
@@ -1580,7 +1580,7 @@
                 "open_issues": 87,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20452,
+                "stars": 20454,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T17:43:36.500Z",
+    "last_updated": "2026-10-14T15:21:43.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
