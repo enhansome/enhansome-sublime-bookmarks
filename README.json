@@ -585,6 +585,32 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Rope",
+              "description": "a Python refactoring library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "a python refactoring library",
+                "homepage": null,
+                "id": 14823414,
+                "language": "Python",
+                "license": "LGPL-3.0",
+                "last_commit": "2026-10-08T13:44:42Z",
+                "open_issues": 166,
+                "owner": "python-rope",
+                "repo": "rope",
+                "stars": 2242,
+                "topics": [
+                  "ast",
+                  "python",
+                  "refactoring",
+                  "refactoring-tools"
+                ]
+              },
+              "first_seen": "2026-08-28T21:13:13.472Z"
+            },
+            {
+              "node_type": "item",
               "title": "Anaconda",
               "description": "autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker and Vagrant for Sublime Text 3 using Jedi, PyFlakes, pep8, PyLint, pep257 and McCabe that will never freeze your Sublime Text.",
               "children": [],
@@ -605,32 +631,6 @@
                   "ide-features",
                   "python",
                   "sublime-text"
-                ]
-              },
-              "first_seen": "2026-08-28T21:13:13.472Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Rope",
-              "description": "a Python refactoring library.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "a python refactoring library",
-                "homepage": null,
-                "id": 14823414,
-                "language": "Python",
-                "license": "LGPL-3.0",
-                "last_commit": "2026-10-08T13:44:42Z",
-                "open_issues": 166,
-                "owner": "python-rope",
-                "repo": "rope",
-                "stars": 2241,
-                "topics": [
-                  "ast",
-                  "python",
-                  "refactoring",
-                  "refactoring-tools"
                 ]
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -1243,7 +1243,7 @@
                 "open_issues": 16,
                 "owner": "dempfi",
                 "repo": "ayu",
-                "stars": 4419,
+                "stars": 4420,
                 "topics": [
                   "ayu",
                   "dark-theme",
@@ -1492,7 +1492,7 @@
                 "open_issues": 2,
                 "owner": "chriskempson",
                 "repo": "base16",
-                "stars": 970,
+                "stars": 971,
                 "topics": [
                   "base16",
                   "colour-schemes",
@@ -1580,7 +1580,7 @@
                 "open_issues": 87,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20453,
+                "stars": 20454,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T15:14:05.501Z",
+    "last_updated": "2026-10-16T14:57:55.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
