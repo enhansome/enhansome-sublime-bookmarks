@@ -965,11 +965,11 @@
                 "id": 1530210,
                 "language": "Common Workflow Language",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T10:33:50Z",
-                "open_issues": 66,
+                "last_commit": "2026-10-17T10:51:29Z",
+                "open_issues": 65,
                 "owner": "SublimeText",
                 "repo": "LaTeXTools",
-                "stars": 2024,
+                "stars": 2025,
                 "topics": [
                   "auto-complete",
                   "latex",
@@ -1025,7 +1025,7 @@
                 "open_issues": 49,
                 "owner": "SublimeText-Markdown",
                 "repo": "MarkdownEditing",
-                "stars": 3339,
+                "stars": 3340,
                 "topics": [
                   "gfm",
                   "markdown",
@@ -1580,7 +1580,7 @@
                 "open_issues": 87,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20454,
+                "stars": 20456,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T14:57:55.698Z",
+    "last_updated": "2026-10-17T13:51:35.881Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
