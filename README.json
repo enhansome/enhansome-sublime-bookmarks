@@ -596,7 +596,7 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-10-08T13:44:42Z",
-                "open_issues": 166,
+                "open_issues": 167,
                 "owner": "python-rope",
                 "repo": "rope",
                 "stars": 2242,
@@ -965,8 +965,8 @@
                 "id": 1530210,
                 "language": "Common Workflow Language",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-17T10:51:29Z",
-                "open_issues": 65,
+                "last_commit": "2026-10-18T14:05:52Z",
+                "open_issues": 64,
                 "owner": "SublimeText",
                 "repo": "LaTeXTools",
                 "stars": 2025,
@@ -1580,7 +1580,7 @@
                 "open_issues": 87,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20456,
+                "stars": 20459,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T13:51:35.881Z",
+    "last_updated": "2026-10-18T14:06:10.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
