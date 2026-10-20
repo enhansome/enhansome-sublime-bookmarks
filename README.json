@@ -141,7 +141,7 @@
                 "open_issues": 28,
                 "owner": "SublimeText",
                 "repo": "Origami",
-                "stars": 1221,
+                "stars": 1222,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -499,7 +499,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2016-11-30T16:53:18Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "shuky19",
                 "repo": "sublime_debugger",
                 "stars": 428,
@@ -1243,7 +1243,7 @@
                 "open_issues": 16,
                 "owner": "dempfi",
                 "repo": "ayu",
-                "stars": 4421,
+                "stars": 4422,
                 "topics": [
                   "ayu",
                   "dark-theme",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T17:04:38.081Z",
+    "last_updated": "2026-10-20T15:16:59.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
