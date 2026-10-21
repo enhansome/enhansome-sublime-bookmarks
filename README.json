@@ -585,6 +585,32 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Rope",
+              "description": "a Python refactoring library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "a python refactoring library",
+                "homepage": null,
+                "id": 14823414,
+                "language": "Python",
+                "license": "LGPL-3.0",
+                "last_commit": "2026-10-08T13:44:42Z",
+                "open_issues": 173,
+                "owner": "python-rope",
+                "repo": "rope",
+                "stars": 2244,
+                "topics": [
+                  "ast",
+                  "python",
+                  "refactoring",
+                  "refactoring-tools"
+                ]
+              },
+              "first_seen": "2026-08-28T21:13:13.472Z"
+            },
+            {
+              "node_type": "item",
               "title": "Anaconda",
               "description": "autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker and Vagrant for Sublime Text 3 using Jedi, PyFlakes, pep8, PyLint, pep257 and McCabe that will never freeze your Sublime Text.",
               "children": [],
@@ -611,32 +637,6 @@
             },
             {
               "node_type": "item",
-              "title": "Rope",
-              "description": "a Python refactoring library.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "a python refactoring library",
-                "homepage": null,
-                "id": 14823414,
-                "language": "Python",
-                "license": "LGPL-3.0",
-                "last_commit": "2026-10-08T13:44:42Z",
-                "open_issues": 173,
-                "owner": "python-rope",
-                "repo": "rope",
-                "stars": 2242,
-                "topics": [
-                  "ast",
-                  "python",
-                  "refactoring",
-                  "refactoring-tools"
-                ]
-              },
-              "first_seen": "2026-08-28T21:13:13.472Z"
-            },
-            {
-              "node_type": "item",
               "title": "MagicPython",
               "description": "Syntax highlighter for cutting edge Python for Sublime Text and Atom.",
               "children": [],
@@ -648,7 +648,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2024-02-21T21:52:42Z",
-                "open_issues": 70,
+                "open_issues": 71,
                 "owner": "MagicStack",
                 "repo": "MagicPython",
                 "stars": 1442,
@@ -1294,7 +1294,7 @@
                 "open_issues": 21,
                 "owner": "jamiewilson",
                 "repo": "predawn",
-                "stars": 1796,
+                "stars": 1795,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -1577,10 +1577,10 @@
                 "language": "CSS",
                 "license": "OFL-1.1",
                 "last_commit": "2025-10-28T23:34:52Z",
-                "open_issues": 87,
+                "open_issues": 88,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20457,
+                "stars": 20455,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T15:16:59.874Z",
+    "last_updated": "2026-10-21T15:29:28.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
