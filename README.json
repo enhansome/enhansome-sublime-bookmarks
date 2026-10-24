@@ -46,7 +46,7 @@
                 "open_issues": 8,
                 "owner": "titoBouzout",
                 "repo": "SideBarEnhancements",
-                "stars": 2222,
+                "stars": 2221,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -141,7 +141,7 @@
                 "open_issues": 28,
                 "owner": "SublimeText",
                 "repo": "Origami",
-                "stars": 1222,
+                "stars": 1223,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -258,7 +258,7 @@
                 "open_issues": 4,
                 "owner": "facelessuser",
                 "repo": "ApplySyntax",
-                "stars": 340,
+                "stars": 339,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -595,7 +595,7 @@
                 "id": 14823414,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-08T13:44:42Z",
+                "last_commit": "2026-10-24T07:32:14Z",
                 "open_issues": 175,
                 "owner": "python-rope",
                 "repo": "rope",
@@ -700,7 +700,7 @@
                 "open_issues": 10,
                 "owner": "squ1b3r",
                 "repo": "Djaneiro",
-                "stars": 851,
+                "stars": 850,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -966,7 +966,7 @@
                 "language": "Common Workflow Language",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-18T16:28:30Z",
-                "open_issues": 64,
+                "open_issues": 65,
                 "owner": "SublimeText",
                 "repo": "LaTeXTools",
                 "stars": 2025,
@@ -1025,7 +1025,7 @@
                 "open_issues": 50,
                 "owner": "SublimeText-Markdown",
                 "repo": "MarkdownEditing",
-                "stars": 3340,
+                "stars": 3341,
                 "topics": [
                   "gfm",
                   "markdown",
@@ -1215,7 +1215,7 @@
                 "open_issues": 0,
                 "owner": "vira-soft",
                 "repo": "vira-assets",
-                "stars": 11301,
+                "stars": 11300,
                 "topics": [
                   "epic",
                   "hacktoberfest",
@@ -1580,7 +1580,7 @@
                 "open_issues": 88,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20455,
+                "stars": 20459,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T15:21:59.521Z",
+    "last_updated": "2026-10-24T14:05:07.802Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
