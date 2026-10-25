@@ -625,7 +625,7 @@
                 "open_issues": 187,
                 "owner": "DamnWidget",
                 "repo": "anaconda",
-                "stars": 2242,
+                "stars": 2243,
                 "topics": [
                   "anaconda",
                   "ide-features",
@@ -966,7 +966,7 @@
                 "language": "Common Workflow Language",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-18T16:28:30Z",
-                "open_issues": 65,
+                "open_issues": 63,
                 "owner": "SublimeText",
                 "repo": "LaTeXTools",
                 "stars": 2025,
@@ -1084,7 +1084,7 @@
                 "open_issues": 5,
                 "owner": "farcaller",
                 "repo": "DashDoc",
-                "stars": 1318,
+                "stars": 1319,
                 "topics": [
                   "dash-docsets",
                   "sublime-text-3",
@@ -1215,7 +1215,7 @@
                 "open_issues": 0,
                 "owner": "vira-soft",
                 "repo": "vira-assets",
-                "stars": 11300,
+                "stars": 11301,
                 "topics": [
                   "epic",
                   "hacktoberfest",
@@ -1492,7 +1492,7 @@
                 "open_issues": 2,
                 "owner": "chriskempson",
                 "repo": "base16",
-                "stars": 971,
+                "stars": 970,
                 "topics": [
                   "base16",
                   "colour-schemes",
@@ -1580,7 +1580,7 @@
                 "open_issues": 88,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20459,
+                "stars": 20458,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T14:05:07.802Z",
+    "last_updated": "2026-10-25T14:28:59.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
