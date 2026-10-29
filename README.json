@@ -1243,7 +1243,7 @@
                 "open_issues": 16,
                 "owner": "dempfi",
                 "repo": "ayu",
-                "stars": 4426,
+                "stars": 4425,
                 "topics": [
                   "ayu",
                   "dark-theme",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T16:46:16.027Z",
+    "last_updated": "2026-10-29T17:01:42.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
