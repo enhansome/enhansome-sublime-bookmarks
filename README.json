@@ -770,7 +770,7 @@
                 "open_issues": 11,
                 "owner": "jdavisclark",
                 "repo": "JsFormat",
-                "stars": 1420,
+                "stars": 1419,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -1215,7 +1215,7 @@
                 "open_issues": 0,
                 "owner": "vira-soft",
                 "repo": "vira-assets",
-                "stars": 11302,
+                "stars": 11303,
                 "topics": [
                   "epic",
                   "hacktoberfest",
@@ -1580,7 +1580,7 @@
                 "open_issues": 88,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20458,
+                "stars": 20459,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T16:46:49.413Z",
+    "last_updated": "2026-10-31T15:49:23.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
