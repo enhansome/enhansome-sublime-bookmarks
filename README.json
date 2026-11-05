@@ -595,8 +595,8 @@
                 "id": 14823414,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-02T23:16:47Z",
-                "open_issues": 186,
+                "last_commit": "2026-11-05T17:20:56Z",
+                "open_issues": 187,
                 "owner": "python-rope",
                 "repo": "rope",
                 "stars": 2245,
@@ -1022,7 +1022,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-03T20:47:11Z",
-                "open_issues": 49,
+                "open_issues": 48,
                 "owner": "SublimeText-Markdown",
                 "repo": "MarkdownEditing",
                 "stars": 3341,
@@ -1215,7 +1215,7 @@
                 "open_issues": 0,
                 "owner": "vira-soft",
                 "repo": "vira-assets",
-                "stars": 11302,
+                "stars": 11303,
                 "topics": [
                   "epic",
                   "hacktoberfest",
@@ -1243,7 +1243,7 @@
                 "open_issues": 16,
                 "owner": "dempfi",
                 "repo": "ayu",
-                "stars": 4427,
+                "stars": 4429,
                 "topics": [
                   "ayu",
                   "dark-theme",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T18:10:09.940Z",
+    "last_updated": "2026-11-05T18:11:33.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
