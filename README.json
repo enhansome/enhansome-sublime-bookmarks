@@ -110,8 +110,8 @@
                 "id": 4501025,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-03-22T16:11:20Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-08T17:55:53Z",
+                "open_issues": 8,
                 "owner": "sindresorhus",
                 "repo": "editorconfig-sublime",
                 "stars": 1776,
@@ -595,8 +595,8 @@
                 "id": 14823414,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-08T05:47:34Z",
-                "open_issues": 188,
+                "last_commit": "2026-11-09T12:09:48Z",
+                "open_issues": 185,
                 "owner": "python-rope",
                 "repo": "rope",
                 "stars": 2246,
@@ -1025,7 +1025,7 @@
                 "open_issues": 48,
                 "owner": "SublimeText-Markdown",
                 "repo": "MarkdownEditing",
-                "stars": 3341,
+                "stars": 3342,
                 "topics": [
                   "gfm",
                   "markdown",
@@ -1215,7 +1215,7 @@
                 "open_issues": 0,
                 "owner": "vira-soft",
                 "repo": "vira-assets",
-                "stars": 11302,
+                "stars": 11301,
                 "topics": [
                   "epic",
                   "hacktoberfest",
@@ -1294,7 +1294,7 @@
                 "open_issues": 21,
                 "owner": "jamiewilson",
                 "repo": "predawn",
-                "stars": 1792,
+                "stars": 1791,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -1492,7 +1492,7 @@
                 "open_issues": 2,
                 "owner": "chriskempson",
                 "repo": "base16",
-                "stars": 973,
+                "stars": 975,
                 "topics": [
                   "base16",
                   "colour-schemes",
@@ -1580,7 +1580,7 @@
                 "open_issues": 88,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20454,
+                "stars": 20455,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T16:45:15.614Z",
+    "last_updated": "2026-11-09T20:57:38.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
