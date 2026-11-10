@@ -2,7 +2,7 @@
 
 > [Sublime Text](http://www.sublimetext.com/) is a cross-platform text and source code editor, with a Python application programming interface. Its functionality is extendable with plugins. Most of the extending packages have free-software licenses and are community-built and maintained. — [Wikipedia](https://en.wikipedia.org/wiki/Sublime_Text)
 
-This tiny project follows [GitHub community trend](https://github.com/sindresorhus/awesome) ⭐ 534,198 | 🐛 103 | 📅 2026-09-02 to aggregate the most essential bookmarks for specific subject in the form of a handy well-structured collection. Here you will find tutorials and learning materials for Sublime Text, general purpose extensions for coding and text editing, and specialized extensions grouped by usage profiles.
+This tiny project follows [GitHub community trend](https://github.com/sindresorhus/awesome) ⭐ 534,732 | 🐛 103 | 📅 2026-09-02 to aggregate the most essential bookmarks for specific subject in the form of a handy well-structured collection. Here you will find tutorials and learning materials for Sublime Text, general purpose extensions for coding and text editing, and specialized extensions grouped by usage profiles.
 
 This list not supposed to include absolutely all Sublime Text plugins, due we already have [Package Control](https://packagecontrol.io/) for this. It is intended to be a starting point helping to setup working environment, or check out for new extensions to make your existing Sublime setup more awesome. You may find ★ here and there in the list. It stands for Editors' Choice. Sharing and pull requests are very much appreciated!
 
@@ -46,7 +46,7 @@ Alive projects only, with Sublime Text version 3 support.
 ### General Purpose
 
 * [GitGutter](https://github.com/jisaacks/GitGutter) ⭐ 3,879 | 🐛 11 | 🌐 Python | 📅 2026-03-21 — a plugin to see git diff in gutter.
-* [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements) ⭐ 2,223 | 🐛 8 | 🌐 Python | 📅 2026-07-17 — provides enhancements to the operations on Sidebar of Files and Folders.
+* [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements) ⭐ 2,224 | 🐛 8 | 🌐 Python | 📅 2026-07-17 — provides enhancements to the operations on Sidebar of Files and Folders.
 * [SublimeREPL](https://github.com/wuub/SublimeREPL) ⭐ 2,127 | 🐛 266 | 🌐 Python | 📅 2021-05-24 — runs an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself).
 * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3) ⭐ 2,040 | 🐛 20 | 🌐 Python | 📅 2026-10-02 — a plugin that provides a framework for linting code. Whatever language you code in, SublimeLinter can help you write cleaner, better, more bug-free code. SublimeLinter has been designed to provide maximum flexibility and usability for users and maximum simplicity for linter authors.
 * [EditorConfig](https://github.com/sindresorhus/editorconfig-sublime) ⭐ 1,776 | 🐛 8 | 🌐 Python | 📅 2026-11-08 — .editorconfig support.
@@ -56,7 +56,7 @@ Alive projects only, with Sublime Text version 3 support.
 * [Sublime Alignment](https://github.com/wbond/sublime_alignment) ⭐ 519 | 🐛 45 | 🌐 Python | 📅 2022-10-18 — a simple key-binding for aligning multi-line and multiple selections.
 * [SublimeFileBrowser](https://github.com/aziz/SublimeFileBrowser) ⭐ 397 | 🐛 26 | 🌐 Python | 📅 2020-03-28 - Ditch the sidebar and browse your files in a normal tab with your keyboard, like a pro! Also, [Dired](https://en.wikipedia.org/wiki/Dired) lets you modify your directory structure using the powerful text editing feature that ST provides.
 * [ApplySyntax](https://github.com/facelessuser/ApplySyntax) ⭐ 340 | 🐛 5 | 🌐 HTML | 📅 2025-12-03 — a plugin that allows to detect and apply the syntax of files that might not otherwise be detected properly. For example, files with the .rb extension are usually Ruby files, but when they are found in a Rails project, they could be RSpec spec files, Cucumber step files, Ruby on Rails files (controllers, models, etc), or just plain Ruby files.
-* [Sublime Worksheet](https://github.com/jcartledge/sublime-worksheet) ⭐ 329 | 🐛 8 | 🌐 Python | 📅 2013-08-23 — an inline REPL for JavaScript, PHP, Ruby and more.
+* [Sublime Worksheet](https://github.com/jcartledge/sublime-worksheet) ⭐ 330 | 🐛 8 | 🌐 Python | 📅 2013-08-23 — an inline REPL for JavaScript, PHP, Ruby and more.
 * [PackageResourceViewer](https://github.com/skuroda/PackageResourceViewer) ⭐ 300 | 🐛 6 | 🌐 Python | 📅 2019-10-23 — View and Edit Sublime package resources. Helpful for extensions and themes development.
 * [Sync Settings](https://github.com/mfuentesg/SyncSettings) ⚠️ Archived - The cross-platform solution to keep Sublime Text configuration synchronized
 * [Glue](https://github.com/chrissimpkins/glue) ⭐ 250 | 🐛 36 | 🌐 Python | 📅 2017-09-29 — a cross-platform, extensible plug-in for Sublime Text 2 and 3 that connects your favorite editor to your shell.
@@ -96,7 +96,7 @@ Plugins:
 * [Rope](https://github.com/python-rope/rope) ⭐ 2,246 | 🐛 185 | 🌐 Python | 📅 2026-11-09 — a Python refactoring library.
 * [Anaconda](https://github.com/DamnWidget/anaconda) ⭐ 2,243 | 🐛 188 | 🌐 Python | 📅 2022-08-12 — autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker and Vagrant for Sublime Text 3 using Jedi, PyFlakes, pep8, PyLint, pep257 and McCabe that will never freeze your Sublime Text.
 * [MagicPython](https://github.com/MagicStack/MagicPython) ⭐ 1,444 | 🐛 71 | 🌐 JavaScript | 📅 2024-02-21 — Syntax highlighter for cutting edge Python for Sublime Text and Atom.
-* [SublimeJEDI](https://github.com/srusskih/SublimeJEDI) ⭐ 926 | 🐛 38 | 🌐 Python | 📅 2022-08-30 — Python autocompletion.
+* [SublimeJEDI](https://github.com/srusskih/SublimeJEDI) ⭐ 927 | 🐛 38 | 🌐 Python | 📅 2022-08-30 — Python autocompletion.
 * [Djaneiro](https://github.com/squ1b3r/Djaneiro) ⭐ 851 | 🐛 10 | 🌐 Python | 📅 2024-12-31 — Django support.
 * [SublimePythonTidy](https://github.com/witsch/SublimePythonTidy) ⭐ 41 | 🐛 7 | 🌐 Python | 📅 2013-03-12 — [PythonTidy](https://pypi.python.org/pypi/PythonTidy/) integration.
 * [SublimeLinter PEP 257](https://github.com/SublimeLinter/SublimeLinter-pep257) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2025-04-24 — an interface to [PEP 257](https://github.com/GreenSteam/pep257#pep-257-docstring-style-checker) ⚠️ Archived (docstring style checker).
@@ -105,7 +105,7 @@ Plugins:
 
 * [JsFormat](https://github.com/jdc0589/JsFormat) ⭐ 1,420 | 🐛 11 | 🌐 Python | 📅 2022-04-05 — a JavaScript formatting plugin. It uses the command-line/python-module JavaScript formatter from <http://jsbeautifier.org> to format whole js or json files, or the selected portion(s).
 * [TernJS](https://github.com/ternjs/tern_for_sublime) ⭐ 797 | 🐛 43 | 🌐 Python | 📅 2022-11-07 — a JavaScript type inference engine integration.
-* [JavaScript Enhancements](https://github.com/pichillilorenzo/JavaScriptEnhancements) ⭐ 641 | 🐛 27 | 🌐 Python | 📅 2024-01-31 — plugin that offers smart javascript autocomplete, real-time errors and, also, a lot of features about creating, developing and managing javascript projects (such as Cordova, Ionic, React, etc.). It uses [Flow](https://github.com/facebook/flow) ⭐ 22,312 | 🐛 503 | 🌐 Rust | 📅 2026-11-09 (javascript static type checker from Facebook) under the hood.
+* [JavaScript Enhancements](https://github.com/pichillilorenzo/JavaScriptEnhancements) ⭐ 642 | 🐛 27 | 🌐 Python | 📅 2024-01-31 — plugin that offers smart javascript autocomplete, real-time errors and, also, a lot of features about creating, developing and managing javascript projects (such as Cordova, Ionic, React, etc.). It uses [Flow](https://github.com/facebook/flow) ⭐ 22,312 | 🐛 502 | 🌐 Rust | 📅 2026-11-10 (javascript static type checker from Facebook) under the hood.
 * [CoffeeScript](https://github.com/Xavura/CoffeeScript-Sublime-Plugin) ⭐ 286 | 🐛 30 | 🌐 Python | 📅 2019-08-10 — syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
 * [Bump](https://github.com/yavorsky/Bump) ⭐ 76 | 🐛 5 | 🌐 Python | 📅 2017-11-14 — plugin to keep package.json dependencies fresh. Shows latest npm/yarn dependency version in the neat tooltip on package hover.
 
@@ -123,13 +123,13 @@ Plugins:
 
 ### Markdown Editing Profile
 
-* [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) ⭐ 3,342 | 🐛 48 | 🌐 Python | 📅 2026-11-03 — powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
+* [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) ⭐ 3,342 | 🐛 47 | 🌐 Python | 📅 2026-11-10 — powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
 * [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview) ⚠️ Archived — preview and build your markdown files quickly in your web browser from Sublime Text.
 
 ### Documentation and Help Systems
 
 * [DashDoc](https://github.com/farcaller/DashDoc) ⭐ 1,319 | 🐛 5 | 🌐 Python | 📅 2026-10-14 — [Dash](https://kapeli.com/dash) integration for Sublime Text.
-* [HowDoI](https://github.com/azac/sublime-howdoi-direct-paste) ⭐ 217 | 🐛 1 | 🌐 Python | 📅 2013-12-30 — integration for instant [coding answers search tool](https://github.com/gleitz/howdoi) ⭐ 10,840 | 🐛 19 | 🌐 Python | 📅 2026-09-30.
+* [HowDoI](https://github.com/azac/sublime-howdoi-direct-paste) ⭐ 217 | 🐛 1 | 🌐 Python | 📅 2013-12-30 — integration for instant [coding answers search tool](https://github.com/gleitz/howdoi) ⭐ 10,842 | 🐛 19 | 🌐 Python | 📅 2026-09-30.
 * [GotoDocumentation](https://github.com/kemayo/sublime-text-2-goto-documentation) ⭐ 129 | 🐛 13 | 🌐 Python | 📅 2018-09-04 — a plugin to jump to documentation for the current word.
 
 ## Integration
@@ -143,7 +143,7 @@ Plugins:
 
 ### Themes
 
-* [Material theme](https://github.com/equinusocio/material-theme) ⭐ 11,301 | 🐛 0 | 📅 2026-09-25 — This theme brings the Material Design visual language. <http://equinsuocha.io/material-theme>
+* [Material theme](https://github.com/equinusocio/material-theme) ⭐ 11,302 | 🐛 0 | 📅 2026-09-25 — This theme brings the Material Design visual language. <http://equinsuocha.io/material-theme>
 * [Ayu](https://github.com/dempfi/ayu) ⭐ 4,429 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2026-10-08 — A simple theme with bright colors and comes in three versions — dark, mirage and light for all day long comfortable work.
 * [Flatland](https://github.com/thinkpixellab/flatland) ⚠️ Archived — A simple theme and accompanying color scheme for Sublime Text 2 & 3. It is mostly derived from Soda, the right place to start for any custom theme development for Sublime.
 * [Predawn](https://github.com/jamiewilson/predawn) ⭐ 1,791 | 🐛 21 | 🌐 CSS | 📅 2024-10-30 — Dark interface and syntax theme for Sublime Text and Atom. <http://jamiewilson.io/predawn>
@@ -168,7 +168,7 @@ Related extensions:
 Some of the most popular schemes:
 
 * [Base 16](https://github.com/chriskempson/base16) ⭐ 975 | 🐛 2 | 📅 2023-10-12 — carefully chosen syntax highlighting and a default set of sixteen colors.
-* [Dracula](https://github.com/dracula/sublime) ⭐ 103 | 🐛 11 | 📅 2025-06-24 - spooky color scheme, perfect for Halloween.  Also available for terminal and [several other applications](https://draculatheme.com/).
+* [Dracula](https://github.com/dracula/sublime) ⭐ 104 | 🐛 11 | 📅 2025-06-24 - spooky color scheme, perfect for Halloween.  Also available for terminal and [several other applications](https://draculatheme.com/).
 * [Solarized](http://ethanschoonover.com/solarized) — balanced dark and light themes.
 
 ### Alternative Icons
@@ -206,7 +206,7 @@ See also:
 
 ## Other Bookmark Lists
 
-There are a lot of other bookmarks collections on GitHub. Take a look at metabookmarks list: <https://github.com/sindresorhus/awesome> ⭐ 534,198 | 🐛 103 | 📅 2026-09-02
+There are a lot of other bookmarks collections on GitHub. Take a look at metabookmarks list: <https://github.com/sindresorhus/awesome> ⭐ 534,732 | 🐛 103 | 📅 2026-09-02
 
 ## License
 
@@ -214,4 +214,4 @@ Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-s
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._

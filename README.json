@@ -46,7 +46,7 @@
                 "open_issues": 8,
                 "owner": "titoBouzout",
                 "repo": "SideBarEnhancements",
-                "stars": 2223,
+                "stars": 2224,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -279,7 +279,7 @@
                 "open_issues": 8,
                 "owner": "jcartledge",
                 "repo": "sublime-worksheet",
-                "stars": 329,
+                "stars": 330,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -679,7 +679,7 @@
                 "open_issues": 38,
                 "owner": "srusskih",
                 "repo": "SublimeJEDI",
-                "stars": 926,
+                "stars": 927,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -812,7 +812,7 @@
                 "open_issues": 27,
                 "owner": "pichillilorenzo",
                 "repo": "JavaScriptEnhancements",
-                "stars": 641,
+                "stars": 642,
                 "topics": [
                   "autocomplete",
                   "completions",
@@ -1021,8 +1021,8 @@
                 "id": 4361634,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-03T20:47:11Z",
-                "open_issues": 48,
+                "last_commit": "2026-11-10T17:04:11Z",
+                "open_issues": 47,
                 "owner": "SublimeText-Markdown",
                 "repo": "MarkdownEditing",
                 "stars": 3342,
@@ -1215,7 +1215,7 @@
                 "open_issues": 0,
                 "owner": "vira-soft",
                 "repo": "vira-assets",
-                "stars": 11301,
+                "stars": 11302,
                 "topics": [
                   "epic",
                   "hacktoberfest",
@@ -1519,7 +1519,7 @@
                 "open_issues": 11,
                 "owner": "dracula",
                 "repo": "sublime",
-                "stars": 103,
+                "stars": 104,
                 "topics": [
                   "dark-theme",
                   "dracula",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T20:57:38.587Z",
+    "last_updated": "2026-11-10T18:05:16.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
