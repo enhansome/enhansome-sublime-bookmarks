@@ -595,11 +595,11 @@
                 "id": 14823414,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-09T12:09:48Z",
-                "open_issues": 185,
+                "last_commit": "2026-11-11T00:30:49Z",
+                "open_issues": 188,
                 "owner": "python-rope",
                 "repo": "rope",
-                "stars": 2246,
+                "stars": 2247,
                 "topics": [
                   "ast",
                   "python",
@@ -1022,7 +1022,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-10T17:04:11Z",
-                "open_issues": 47,
+                "open_issues": 48,
                 "owner": "SublimeText-Markdown",
                 "repo": "MarkdownEditing",
                 "stars": 3342,
@@ -1492,7 +1492,7 @@
                 "open_issues": 2,
                 "owner": "chriskempson",
                 "repo": "base16",
-                "stars": 975,
+                "stars": 976,
                 "topics": [
                   "base16",
                   "colour-schemes",
@@ -1580,7 +1580,7 @@
                 "open_issues": 88,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20455,
+                "stars": 20458,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T18:05:16.619Z",
+    "last_updated": "2026-11-11T17:59:25.994Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
