@@ -791,7 +791,7 @@
                 "open_issues": 43,
                 "owner": "ternjs",
                 "repo": "tern_for_sublime",
-                "stars": 797,
+                "stars": 796,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -1021,8 +1021,8 @@
                 "id": 4361634,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-10T17:04:11Z",
-                "open_issues": 48,
+                "last_commit": "2026-11-12T17:07:03Z",
+                "open_issues": 47,
                 "owner": "SublimeText-Markdown",
                 "repo": "MarkdownEditing",
                 "stars": 3342,
@@ -1215,7 +1215,7 @@
                 "open_issues": 0,
                 "owner": "vira-soft",
                 "repo": "vira-assets",
-                "stars": 11302,
+                "stars": 11301,
                 "topics": [
                   "epic",
                   "hacktoberfest",
@@ -1492,7 +1492,7 @@
                 "open_issues": 2,
                 "owner": "chriskempson",
                 "repo": "base16",
-                "stars": 976,
+                "stars": 978,
                 "topics": [
                   "base16",
                   "colour-schemes",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T17:59:25.994Z",
+    "last_updated": "2026-11-12T18:30:02.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
