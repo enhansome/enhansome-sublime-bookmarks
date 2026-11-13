@@ -348,7 +348,7 @@
                 "open_issues": 36,
                 "owner": "chrissimpkins",
                 "repo": "glue",
-                "stars": 250,
+                "stars": 249,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -595,7 +595,7 @@
                 "id": 14823414,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-11T00:30:49Z",
+                "last_commit": "2026-11-13T17:26:24Z",
                 "open_issues": 188,
                 "owner": "python-rope",
                 "repo": "rope",
@@ -941,7 +941,7 @@
                 "open_issues": 46,
                 "owner": "ggordan",
                 "repo": "GutterColor",
-                "stars": 482,
+                "stars": 481,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -1025,7 +1025,7 @@
                 "open_issues": 47,
                 "owner": "SublimeText-Markdown",
                 "repo": "MarkdownEditing",
-                "stars": 3342,
+                "stars": 3343,
                 "topics": [
                   "gfm",
                   "markdown",
@@ -1580,7 +1580,7 @@
                 "open_issues": 88,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20458,
+                "stars": 20457,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T18:30:02.697Z",
+    "last_updated": "2026-11-13T17:57:47.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
