@@ -114,7 +114,7 @@
                 "open_issues": 8,
                 "owner": "sindresorhus",
                 "repo": "editorconfig-sublime",
-                "stars": 1776,
+                "stars": 1775,
                 "topics": [
                   "editorconfig",
                   "python",
@@ -595,8 +595,8 @@
                 "id": 14823414,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-13T17:26:24Z",
-                "open_issues": 188,
+                "last_commit": "2026-11-14T10:17:59Z",
+                "open_issues": 182,
                 "owner": "python-rope",
                 "repo": "rope",
                 "stars": 2247,
@@ -1025,7 +1025,7 @@
                 "open_issues": 47,
                 "owner": "SublimeText-Markdown",
                 "repo": "MarkdownEditing",
-                "stars": 3343,
+                "stars": 3344,
                 "topics": [
                   "gfm",
                   "markdown",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T17:57:47.580Z",
+    "last_updated": "2026-11-14T16:40:17.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
