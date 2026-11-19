@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "jisaacks",
                 "repo": "GitGutter",
-                "stars": 3879,
+                "stars": 3878,
                 "topics": [
                   "color-scheme",
                   "gitgutter",
@@ -46,7 +46,7 @@
                 "open_issues": 8,
                 "owner": "titoBouzout",
                 "repo": "SideBarEnhancements",
-                "stars": 2225,
+                "stars": 2224,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -67,7 +67,7 @@
                 "open_issues": 266,
                 "owner": "wuub",
                 "repo": "SublimeREPL",
-                "stars": 2127,
+                "stars": 2126,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -88,7 +88,7 @@
                 "open_issues": 20,
                 "owner": "SublimeLinter",
                 "repo": "SublimeLinter",
-                "stars": 2041,
+                "stars": 2040,
                 "topics": [
                   "linter",
                   "python",
@@ -114,7 +114,7 @@
                 "open_issues": 8,
                 "owner": "sindresorhus",
                 "repo": "editorconfig-sublime",
-                "stars": 1775,
+                "stars": 1774,
                 "topics": [
                   "editorconfig",
                   "python",
@@ -279,7 +279,7 @@
                 "open_issues": 8,
                 "owner": "jcartledge",
                 "repo": "sublime-worksheet",
-                "stars": 330,
+                "stars": 329,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -625,7 +625,7 @@
                 "open_issues": 188,
                 "owner": "DamnWidget",
                 "repo": "anaconda",
-                "stars": 2244,
+                "stars": 2243,
                 "topics": [
                   "anaconda",
                   "ide-features",
@@ -679,7 +679,7 @@
                 "open_issues": 38,
                 "owner": "srusskih",
                 "repo": "SublimeJEDI",
-                "stars": 926,
+                "stars": 925,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -770,7 +770,7 @@
                 "open_issues": 11,
                 "owner": "jdavisclark",
                 "repo": "JsFormat",
-                "stars": 1420,
+                "stars": 1419,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -969,7 +969,7 @@
                 "open_issues": 64,
                 "owner": "SublimeText",
                 "repo": "LaTeXTools",
-                "stars": 2026,
+                "stars": 2025,
                 "topics": [
                   "auto-complete",
                   "latex",
@@ -1025,7 +1025,7 @@
                 "open_issues": 47,
                 "owner": "SublimeText-Markdown",
                 "repo": "MarkdownEditing",
-                "stars": 3345,
+                "stars": 3344,
                 "topics": [
                   "gfm",
                   "markdown",
@@ -1051,7 +1051,7 @@
                 "open_issues": 1,
                 "owner": "revolunet",
                 "repo": "sublimetext-markdown-preview",
-                "stars": 2287,
+                "stars": 2286,
                 "topics": [
                   "markdown",
                   "plugin",
@@ -1084,7 +1084,7 @@
                 "open_issues": 5,
                 "owner": "farcaller",
                 "repo": "DashDoc",
-                "stars": 1319,
+                "stars": 1318,
                 "topics": [
                   "dash-docsets",
                   "sublime-text-3",
@@ -1215,7 +1215,7 @@
                 "open_issues": 0,
                 "owner": "vira-soft",
                 "repo": "vira-assets",
-                "stars": 11303,
+                "stars": 11302,
                 "topics": [
                   "epic",
                   "hacktoberfest",
@@ -1273,7 +1273,7 @@
                 "open_issues": 43,
                 "owner": "thinkpixellab",
                 "repo": "flatland",
-                "stars": 2651,
+                "stars": 2650,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -1294,7 +1294,7 @@
                 "open_issues": 21,
                 "owner": "jamiewilson",
                 "repo": "predawn",
-                "stars": 1790,
+                "stars": 1789,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -1315,7 +1315,7 @@
                 "open_issues": 32,
                 "owner": "wesbos",
                 "repo": "cobalt2",
-                "stars": 1562,
+                "stars": 1561,
                 "topics": [
                   "hacktoberfest",
                   "sublime-text"
@@ -1446,7 +1446,7 @@
                 "open_issues": 75,
                 "owner": "aziz",
                 "repo": "tmTheme-Editor",
-                "stars": 1694,
+                "stars": 1693,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -1492,7 +1492,7 @@
                 "open_issues": 2,
                 "owner": "chriskempson",
                 "repo": "base16",
-                "stars": 979,
+                "stars": 978,
                 "topics": [
                   "base16",
                   "colour-schemes",
@@ -1580,7 +1580,7 @@
                 "open_issues": 88,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20462,
+                "stars": 20461,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T18:57:38.212Z",
+    "last_updated": "2026-11-19T19:05:45.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
