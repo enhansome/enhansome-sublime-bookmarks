@@ -599,7 +599,7 @@
                 "open_issues": 181,
                 "owner": "python-rope",
                 "repo": "rope",
-                "stars": 2248,
+                "stars": 2247,
                 "topics": [
                   "ast",
                   "python",
@@ -625,7 +625,7 @@
                 "open_issues": 188,
                 "owner": "DamnWidget",
                 "repo": "anaconda",
-                "stars": 2243,
+                "stars": 2244,
                 "topics": [
                   "anaconda",
                   "ide-features",
@@ -651,7 +651,7 @@
                 "open_issues": 71,
                 "owner": "MagicStack",
                 "repo": "MagicPython",
-                "stars": 1444,
+                "stars": 1443,
                 "topics": [
                   "atom",
                   "python",
@@ -812,7 +812,7 @@
                 "open_issues": 27,
                 "owner": "pichillilorenzo",
                 "repo": "JavaScriptEnhancements",
-                "stars": 642,
+                "stars": 641,
                 "topics": [
                   "autocomplete",
                   "completions",
@@ -1084,7 +1084,7 @@
                 "open_issues": 5,
                 "owner": "farcaller",
                 "repo": "DashDoc",
-                "stars": 1318,
+                "stars": 1317,
                 "topics": [
                   "dash-docsets",
                   "sublime-text-3",
@@ -1315,7 +1315,7 @@
                 "open_issues": 32,
                 "owner": "wesbos",
                 "repo": "cobalt2",
-                "stars": 1561,
+                "stars": 1562,
                 "topics": [
                   "hacktoberfest",
                   "sublime-text"
@@ -1446,7 +1446,7 @@
                 "open_issues": 75,
                 "owner": "aziz",
                 "repo": "tmTheme-Editor",
-                "stars": 1693,
+                "stars": 1692,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -1580,7 +1580,7 @@
                 "open_issues": 88,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20461,
+                "stars": 20462,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T19:05:45.289Z",
+    "last_updated": "2026-11-20T18:43:29.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
