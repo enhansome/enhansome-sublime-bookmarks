@@ -88,7 +88,7 @@
                 "open_issues": 20,
                 "owner": "SublimeLinter",
                 "repo": "SublimeLinter",
-                "stars": 2040,
+                "stars": 2039,
                 "topics": [
                   "linter",
                   "python",
@@ -595,8 +595,8 @@
                 "id": 14823414,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-16T19:20:41Z",
-                "open_issues": 190,
+                "last_commit": "2026-11-23T21:01:34Z",
+                "open_issues": 193,
                 "owner": "python-rope",
                 "repo": "rope",
                 "stars": 2247,
@@ -1215,7 +1215,7 @@
                 "open_issues": 0,
                 "owner": "vira-soft",
                 "repo": "vira-assets",
-                "stars": 11302,
+                "stars": 11303,
                 "topics": [
                   "epic",
                   "hacktoberfest",
@@ -1294,7 +1294,7 @@
                 "open_issues": 21,
                 "owner": "jamiewilson",
                 "repo": "predawn",
-                "stars": 1789,
+                "stars": 1788,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -1577,7 +1577,7 @@
                 "language": "CSS",
                 "license": "OFL-1.1",
                 "last_commit": "2025-10-28T23:34:52Z",
-                "open_issues": 88,
+                "open_issues": 87,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
                 "stars": 20463,
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T17:58:28.218Z",
+    "last_updated": "2026-11-23T22:10:08.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
