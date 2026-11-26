@@ -46,7 +46,7 @@
                 "open_issues": 8,
                 "owner": "titoBouzout",
                 "repo": "SideBarEnhancements",
-                "stars": 2225,
+                "stars": 2226,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -88,7 +88,7 @@
                 "open_issues": 20,
                 "owner": "SublimeLinter",
                 "repo": "SublimeLinter",
-                "stars": 2039,
+                "stars": 2038,
                 "topics": [
                   "linter",
                   "python",
@@ -1243,7 +1243,7 @@
                 "open_issues": 16,
                 "owner": "dempfi",
                 "repo": "ayu",
-                "stars": 4431,
+                "stars": 4432,
                 "topics": [
                   "ayu",
                   "dark-theme",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T20:02:59.694Z",
+    "last_updated": "2026-11-26T19:45:25.491Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
