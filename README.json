@@ -1025,7 +1025,7 @@
                 "open_issues": 47,
                 "owner": "SublimeText-Markdown",
                 "repo": "MarkdownEditing",
-                "stars": 3346,
+                "stars": 3347,
                 "topics": [
                   "gfm",
                   "markdown",
@@ -1240,10 +1240,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-10-08T03:37:06Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "dempfi",
                 "repo": "ayu",
-                "stars": 4432,
+                "stars": 4431,
                 "topics": [
                   "ayu",
                   "dark-theme",
@@ -1273,7 +1273,7 @@
                 "open_issues": 43,
                 "owner": "thinkpixellab",
                 "repo": "flatland",
-                "stars": 2649,
+                "stars": 2648,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:13.472Z"
@@ -1492,7 +1492,7 @@
                 "open_issues": 2,
                 "owner": "chriskempson",
                 "repo": "base16",
-                "stars": 978,
+                "stars": 979,
                 "topics": [
                   "base16",
                   "colour-schemes",
@@ -1580,7 +1580,7 @@
                 "open_issues": 87,
                 "owner": "adobe-fonts",
                 "repo": "source-code-pro",
-                "stars": 20458,
+                "stars": 20460,
                 "topics": [
                   "afdko",
                   "fonts",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T19:45:25.491Z",
+    "last_updated": "2026-11-27T19:35:02.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "Sublime Text essential plugins and resources",
